@@ -1,0 +1,17 @@
+groupId=org.mockito
+artifactId=mockito-core
+display=${groupId}:slf4j
+version=4.4.0
+
+gitRepo=https://github.com/mockito/mockito.git
+gitTag=v${version}
+
+tool=gradle
+jdk=11
+newline=lf
+
+command="./gradlew --no-daemon clean build"
+buildinfo=
+
+#diffoscope=${artifactId}-${version}.diffoscope
+issue=
