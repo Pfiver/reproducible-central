@@ -4,6 +4,13 @@ echo "*** running script: $0"
 
 export LC_ALL=C
 
+globalVersion=0
+globalVersionOk=0
+countGa=0
+summary="summary-table.md"
+echo "| [Central Repository](https://search.maven.org/) groupId:artifactId(s) | versions | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |" > ${summary}
+echo "| -------------------------------- | --------- | -------- |" >> ${summary}
+
 for metadata in $(find content -name "maven-metadata.xml" -print | grep -v buildcache | sort)
 #for metadata in content/org/apache/maven/doxia/doxia/maven-metadata.xml
 do
@@ -26,6 +33,7 @@ do
       . $dir/${buildspec}
       if [ ! -f "${readme}" ]
       then
+        ((countGa++))
         # prepare README.md intro
         echo "[$groupId:$artifactId](https://search.maven.org/artifact/${groupId}/${artifactId}/) RB check" > $readme
         echo "=======" >> $readme
@@ -39,6 +47,7 @@ do
       fi
       # add buildspec result to tmp
       ((countVersion++))
+      ((globalVersion++))
       # reset recent fields added to buildspec, to avoid rework of older specs
       diffoscope=
       issue=
@@ -53,7 +62,7 @@ do
       if [ $? -eq 0 ]; then
         echo -n "[" >> ${t}
         [ "${ok}" -gt 0 ] && echo -n "${ok} :heavy_check_mark: " >> ${t}
-        [ "${ko}" -gt 0 ] && echo -n " ${ko} :warning:" >> ${t} || ((countVersionOk++))
+        [ "${ko}" -gt 0 ] && echo -n " ${ko} :warning:" >> ${t} || ((countVersionOk++)) && ((globalVersionOk++))
         echo -n "](${buildcompare})" >> ${t}
         [[ -z "${issue}" ]] || echo -n "[:mag:](${issue})" >> ${t}
         [[ -n "${issue}" ]] && [ "${ko}" -eq 0 ] && echo -e "\n\033[1;31munexpected issue/diffoscope entry when ko=0\033[0m in \033[1m$dir/$buildspec\033[0m" >> ${t}
@@ -77,68 +86,15 @@ do
   \rm -f ${t}
 
   # add projet entry to main README
-  #TODO
+  echo "| [${groupId}:${artifactId}](content/${dir}/README.md) | ${countVersion} | ${countVersionOk} :heavy_check_mark: / $((countVersion - countVersionOk)) :warning: |" >> ${summary}
 done
 
-exit
+echo "| **Count: ${countGa}** | **${globalVersion}** | **${globalVersionOk}** :heavy_check_mark: **$((globalVersion - globalVersionOk))** :warning: |" >> ${summary}
 
-cat <(echo "| [Central Repository](https://search.maven.org/) groupId:artifactId(s) | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/):<br/>reproducible? |"
-echo "| -------------------------------- | -- | --------- | ------ |"
-
-anchor="empty"
-countGa=0
-countVersion=0
-countVersionOk=0
-
-for buildspec in $(find content -name "*.buildspec" -print | sort)
-do
-  ((countVersion++))
-  # reset recent fields added to buildspec, to avoid rework of older specs
-  diffoscope=
-  issue=
-
-  . "$buildspec"
-  new_anchor="${groupId}:${artifactId}"
-  [[ -z "${issue}" ]] && [[ -n "${diffoscope}" ]] && issue="$(dirname "${buildspec}")/$(basename "${diffoscope}")"
-
-  buildinfo="$(dirname "${buildspec}")/$(basename "${buildinfo}")"
-  if [ $(ls ${buildinfo} | wc -l) -le 1 ]; then
-    buildinfoCompare="$(dirname "${buildinfo}")/$(basename ${buildinfo} .buildinfo).buildcompare"
-  else
-    buildinfoCompare="$(dirname "${buildspec}")/$(basename "${buildspec}" .buildspec).buildcompare"
-  fi
-
-  echo -n "| "
-  [[ "${new_anchor}" != "${anchor}" ]] && echo -n "<a name='${new_anchor}'></a>[${display}](https://search.maven.org/artifact/${groupId}/${artifactId}) " && ((countGa++))
-  anchor="${new_anchor}"
-  #echo -n "| [${version}](https://search.maven.org/artifact/${groupId}/${artifactId}/${version}/pom) "
-  echo -n "| ${version} "
-  echo -n "| [${tool} j${jdk}"
-  [[ "${newline}" == crlf* ]] && echo -n " w"
-  echo -n "](https://github.com/jvm-repo-rebuild/reproducible-central/tree/master/${buildspec}) | "
-  [ -f "${buildinfo}" ] && echo -n "[result](https://github.com/jvm-repo-rebuild/reproducible-central/tree/master/${buildinfo}): "
-
-  . "${buildinfoCompare}"
-  if [ $? -eq 0 ]; then
-    echo -n "["
-    [ "${ok}" -gt 0 ] && echo -n "${ok} :heavy_check_mark: "
-    [ "${ko}" -gt 0 ] && echo -n " ${ko} :warning:" || ((countVersionOk++))
-    echo -n "](https://github.com/jvm-repo-rebuild/reproducible-central/tree/master/${buildinfoCompare})"
-    [[ -z "${issue}" ]] || echo -n "[:mag:](${issue})"
-    [[ -n "${issue}" ]] && [ "${ko}" -eq 0 ] && echo -e "\n\033[1;31munexpected issue/diffoscope entry when ko=0\033[0m in \033[1m$buildspec\033[0m"
-  else
-    echo -n ":x:"
-  fi
-  echo " |"
-
-done
-
-echo "| **Count: ${countGa}** | **${countVersion}** | | **${countVersionOk}** :heavy_check_mark: **$((countVersion - countVersionOk))** :warning: |"
-
-echo "rebuilding **${countVersion} releases** of **${countGa} projects**:" > summary-intro.md
-echo "- **${countVersionOk}** releases were found successfully **fully reproducible** (100% reproducible artifacts :heavy_check_mark:)," >> summary-intro.md
-echo "- $((countVersion - countVersionOk)) had issues (some unreproducible artifacts :warning:):" >> summary-intro.md
-) > summary-table.md
+echo "rebuilding **${globalVersion} releases** of **${countGa} projects**:" > summary-intro.md
+echo "- **${globalVersionOk}** releases were found successfully **fully reproducible** (100% reproducible artifacts :heavy_check_mark:)," >> summary-intro.md
+echo "- $((globalVersion - globalVersionOk)) had issues (some unreproducible artifacts :warning:):" >> summary-intro.md
+echo >> summary-intro.md
 
 lead='^<!-- BEGIN GENERATED RESULTS TABLE -->$'
 tail='^<!-- END GENERATED RESULTS TABLE -->$'
