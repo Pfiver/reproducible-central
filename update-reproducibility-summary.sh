@@ -8,8 +8,9 @@ globalVersion=0
 globalVersionOk=0
 countGa=0
 summary="summary-table.md"
-echo "| [Central Repository](https://search.maven.org/) groupId:artifactId(s) | versions | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |" > ${summary}
-echo "| -------------------------------- | --------- | -------- |" >> ${summary}
+echo "| [Central Repository](https://search.maven.org/) groupId | artifactId(s) | versions | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |" > ${summary}
+echo "| ----------------- | --------------- | --------- | -------- |" >> ${summary}
+prevGroupId=
 
 for metadata in $(find content -name "maven-metadata.xml" -print | grep -v buildcache | sort)
 #for metadata in content/org/apache/maven/doxia/doxia/maven-metadata.xml
@@ -99,7 +100,9 @@ do
   \rm -f ${t}
 
   # add projet entry to main README
-  echo -n "| [${groupId}:${artifactId}](${dir}/README.md) | ${countVersion} | ${countVersionOk} :heavy_check_mark:" >> ${summary}
+  echo -n "|" >> ${summary}
+  [[ "$groupId" != "$prevGroupId" ]] && prevGroupId="$groupId" && echo -n " ${groupId}" >> ${summary}
+  echo -n " | [${artifactId}](${dir}/README.md) | ${countVersion} | ${countVersionOk} :heavy_check_mark:" >> ${summary}
   [ "${countVersion}" -gt "${countVersionOk}" ] && echo -n " / $((countVersion - countVersionOk)) :warning:" >> ${summary}
   echo " |" >> ${summary}
 done
