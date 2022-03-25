@@ -15,5 +15,5 @@ rebuilding **4 releases** of com.github.ldapchai:ldapchai:
 | -- | --------- | ------ |
 | [0.8.2](https://search.maven.org/artifact/com.github.ldapchai/ldapchai/0.8.2/pom) | [mvn jdk11](ldapchai-0.8.2.buildspec) | [1 :heavy_check_mark:  2 :warning:](ldapchai-0.8.2.buildcompare) |
 | [0.8.1](https://search.maven.org/artifact/com.github.ldapchai/ldapchai/0.8.1/pom) | [mvn jdk11](ldapchai-0.8.1.buildspec) | [2 :heavy_check_mark:  1 :warning:](ldapchai-0.8.1.buildcompare) |
-| [0.8.0](https://search.maven.org/artifact/com.github.ldapchai/ldapchai/0.8.0/pom) | [mvn jdk15](ldapchai-0.8.0.buildspec) | [1 :heavy_check_mark:  2 :warning:](ldapchai-0.8.0.buildcompare) |
+| [0.8.0](https://search.maven.org/artifact/com.github.ldapchai/ldapchai/0.8.0/pom) | [mvn jdk15](ldapchai-0.8.0.buildspec) | [1 :heavy_check_mark:  2 :warning:](ldapchai-0.8.0.buildcompare) [:mag:](https://github.com/ldapchai/ldapchai/pull/24) |
 | [0.7.6](https://search.maven.org/artifact/com.github.ldapchai/ldapchai/0.7.6/pom) | [mvn jdk14](ldapchai-0.7.6.buildspec) | [1 :heavy_check_mark:  2 :warning:](ldapchai-0.7.6.buildcompare) |

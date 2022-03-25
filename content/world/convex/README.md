@@ -15,7 +15,7 @@ rebuilding **4 releases** of world.convex:convex:
 | -- | --------- | ------ |
 | [0.7.4](https://search.maven.org/artifact/world.convex/convex/0.7.4/pom) | [mvn jdk16 w](convex-0.7.4.buildspec) | [17 :heavy_check_mark:  1 :warning:](convex-0.7.4.buildcompare) |
 | [0.7.3](https://search.maven.org/artifact/world.convex/convex/0.7.3/pom) | [mvn jdk16 w](convex-0.7.3.buildspec) | [6 :heavy_check_mark:  12 :warning:](convex-0.7.3.buildcompare) |
-| [0.7.2](https://search.maven.org/artifact/world.convex/convex/0.7.2/pom) | [mvn jdk16 w](convex-0.7.2.buildspec) | [6 :heavy_check_mark:  12 :warning:](convex-0.7.2.buildcompare) |
+| [0.7.2](https://search.maven.org/artifact/world.convex/convex/0.7.2/pom) | [mvn jdk16 w](convex-0.7.2.buildspec) | [6 :heavy_check_mark:  12 :warning:](convex-0.7.2.buildcompare) [:mag:](https://github.com/Convex-Dev/convex/pull/348) |
 | [0.7.1](https://search.maven.org/artifact/world.convex/convex/0.7.1/pom) | | |
 | [0.7.0](https://search.maven.org/artifact/world.convex/convex/0.7.0/pom) | | |
 | [0.7.0-rc4](https://search.maven.org/artifact/world.convex/convex/0.7.0-rc4/pom) | | |

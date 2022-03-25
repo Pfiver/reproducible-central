@@ -14,11 +14,11 @@ rebuilding **25 releases** of io.dropwizard.metrics:metrics-parent:
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [4.2.9](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/4.2.9/pom) | | |
-| [4.2.8](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.2.8/pom) | [mvn jdk11](dropwizard-metrics-4.2.8.buildspec) | [85 :heavy_check_mark:  1 :warning:](metrics-parent-4.2.8.buildcompare) |
-| [4.2.7](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.2.7/pom) | [mvn jdk11](dropwizard-metrics-4.2.7.buildspec) | [85 :heavy_check_mark:  1 :warning:](metrics-parent-4.2.7.buildcompare) |
+| [4.2.8](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.2.8/pom) | [mvn jdk11](dropwizard-metrics-4.2.8.buildspec) | [85 :heavy_check_mark:  1 :warning:](metrics-parent-4.2.8.buildcompare) [:mag:](https://issues.apache.org/jira/browse/FELIX-6496) |
+| [4.2.7](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.2.7/pom) | [mvn jdk11](dropwizard-metrics-4.2.7.buildspec) | [85 :heavy_check_mark:  1 :warning:](metrics-parent-4.2.7.buildcompare) [:mag:](https://issues.apache.org/jira/browse/FELIX-6496) |
 | [4.2.6](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.2.6/pom) | [mvn jdk11](dropwizard-metrics-4.2.6.buildspec) | [83 :heavy_check_mark:  3 :warning:](metrics-parent-4.2.6.buildcompare) |
-| [4.2.5](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.2.5/pom) | [mvn jdk11](dropwizard-metrics-4.2.5.buildspec) | [58 :heavy_check_mark:  28 :warning:](metrics-parent-4.2.5.buildcompare) |
-| [4.2.4](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.2.4/pom) | [mvn jdk11](dropwizard-metrics-4.2.4.buildspec) | [58 :heavy_check_mark:  28 :warning:](metrics-parent-4.2.4.buildcompare) |
+| [4.2.5](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.2.5/pom) | [mvn jdk11](dropwizard-metrics-4.2.5.buildspec) | [58 :heavy_check_mark:  28 :warning:](metrics-parent-4.2.5.buildcompare) [:mag:](https://issues.apache.org/jira/browse/FELIX-6404) |
+| [4.2.4](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.2.4/pom) | [mvn jdk11](dropwizard-metrics-4.2.4.buildspec) | [58 :heavy_check_mark:  28 :warning:](metrics-parent-4.2.4.buildcompare) [:mag:](https://issues.apache.org/jira/browse/FELIX-6404) |
 | [4.2.3](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.2.3/pom) | | |
 | [4.2.2](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.2.2/pom) | | |
 | [4.2.1](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.2.1/pom) | [mvn jdk11](dropwizard-metrics-4.2.1.buildspec) | [30 :heavy_check_mark:  28 :warning:](metrics-parent-4.2.1.buildcompare) |
@@ -38,11 +38,11 @@ rebuilding **25 releases** of io.dropwizard.metrics:metrics-parent:
 | [4.1.26](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.1.26/pom) | | |
 | [4.1.25](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.1.25/pom) | | |
 | [4.1.24](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.1.24/pom) | | |
-| [4.1.23](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.1.23/pom) | [mvn jdk8](dropwizard-metrics-4.1.23.buildspec) | [46 :heavy_check_mark:  22 :warning:](metrics-servlets-4.1.23.buildcompare) |
-| [4.1.22](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.1.22/pom) | [mvn jdk8](dropwizard-metrics-4.1.22.buildspec) | [24 :heavy_check_mark:  22 :warning:](metrics-servlets-4.1.22.buildcompare) |
+| [4.1.23](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.1.23/pom) | [mvn jdk8](dropwizard-metrics-4.1.23.buildspec) | [46 :heavy_check_mark:  22 :warning:](metrics-servlets-4.1.23.buildcompare) [:mag:](https://issues.apache.org/jira/browse/FELIX-6404) |
+| [4.1.22](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.1.22/pom) | [mvn jdk8](dropwizard-metrics-4.1.22.buildspec) | [24 :heavy_check_mark:  22 :warning:](metrics-servlets-4.1.22.buildcompare) [:mag:](https://issues.apache.org/jira/browse/FELIX-6404) |
 | [4.1.21](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.1.21/pom) | | |
 | [4.1.20](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.1.20/pom) | | |
-| [4.1.19](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.1.19/pom) | [mvn jdk8](dropwizard-metrics-4.1.19.buildspec) | [24 :heavy_check_mark:  22 :warning:](metrics-servlets-4.1.19.buildcompare) |
+| [4.1.19](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.1.19/pom) | [mvn jdk8](dropwizard-metrics-4.1.19.buildspec) | [24 :heavy_check_mark:  22 :warning:](metrics-servlets-4.1.19.buildcompare) [:mag:](https://issues.apache.org/jira/browse/FELIX-6404) |
 | [4.1.18](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.1.18/pom) | [mvn jdk8](dropwizard-metrics-4.1.18.buildspec) | [46 :heavy_check_mark: ](metrics-servlets-4.1.18.buildcompare) |
 | [4.1.17](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.1.17/pom) | [mvn jdk8](dropwizard-metrics-4.1.17.buildspec) | [46 :heavy_check_mark: ](metrics-servlets-4.1.17.buildcompare) |
 | [4.1.16](https://search.maven.org/artifact/io.dropwizard.metrics/metrics-parent/4.1.16/pom) | [mvn jdk11](dropwizard-metrics-4.1.16.buildspec) | [68 :heavy_check_mark: ](metrics-servlets-4.1.16.buildcompare) |

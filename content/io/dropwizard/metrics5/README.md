@@ -20,5 +20,5 @@ rebuilding **6 releases** of io.dropwizard.metrics5:metrics-parent:
 | [5.0.0-rc8](https://search.maven.org/artifact/io.dropwizard.metrics5/metrics-parent/5.0.0-rc8/pom) | | |
 | [5.0.0-rc7](https://search.maven.org/artifact/io.dropwizard.metrics5/metrics-parent/5.0.0-rc7/pom) | | |
 | [5.0.0-rc6](https://search.maven.org/artifact/io.dropwizard.metrics5/metrics-parent/5.0.0-rc6/pom) | | |
-| [5.0.0-rc5](https://search.maven.org/artifact/io.dropwizard.metrics5/metrics-parent/5.0.0-rc5/pom) | [mvn jdk11](dropwizard-metrics-5.0.0-rc5.buildspec) | [66 :heavy_check_mark:  29 :warning:](metrics-parent-5.0.0-rc5.buildcompare) |
+| [5.0.0-rc5](https://search.maven.org/artifact/io.dropwizard.metrics5/metrics-parent/5.0.0-rc5/pom) | [mvn jdk11](dropwizard-metrics-5.0.0-rc5.buildspec) | [66 :heavy_check_mark:  29 :warning:](metrics-parent-5.0.0-rc5.buildcompare) [:mag:](https://issues.apache.org/jira/browse/FELIX-6404) |
 | [5.0.0-rc4](https://search.maven.org/artifact/io.dropwizard.metrics5/metrics-parent/5.0.0-rc4/pom) | [mvn jdk15](dropwizard-metrics-5.0.0-rc4.buildspec) | [86 :heavy_check_mark: ](metrics-parent-5.0.0-rc4.buildcompare) |

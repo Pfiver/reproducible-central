@@ -19,5 +19,5 @@ rebuilding **8 releases** of org.fusesource.jansi:jansi:
 | [2.3.2](https://search.maven.org/artifact/org.fusesource.jansi/jansi/2.3.2/pom) | [mvn jdk15](jansi-2.3.2.buildspec) | [3 :heavy_check_mark: ](jansi-2.3.2.buildcompare) |
 | [2.3.1](https://search.maven.org/artifact/org.fusesource.jansi/jansi/2.3.1/pom) | [mvn jdk11](jansi-2.3.1.buildspec) | [3 :heavy_check_mark: ](jansi-2.3.1.buildcompare) |
 | [2.3.0](https://search.maven.org/artifact/org.fusesource.jansi/jansi/2.3.0/pom) | [mvn jdk11](jansi-2.3.0.buildspec) | [3 :heavy_check_mark: ](jansi-2.3.0.buildcompare) |
-| [2.2.0](https://search.maven.org/artifact/org.fusesource.jansi/jansi/2.2.0/pom) | [mvn jdk11](jansi-2.2.0.buildspec) | [2 :heavy_check_mark:  1 :warning:](jansi-2.2.0.buildcompare) |
-| [2.1.1](https://search.maven.org/artifact/org.fusesource.jansi/jansi/2.1.1/pom) | [mvn jdk11](jansi-2.1.1.buildspec) | [2 :heavy_check_mark:  1 :warning:](jansi-2.1.1.buildcompare) |
+| [2.2.0](https://search.maven.org/artifact/org.fusesource.jansi/jansi/2.2.0/pom) | [mvn jdk11](jansi-2.2.0.buildspec) | [2 :heavy_check_mark:  1 :warning:](jansi-2.2.0.buildcompare) [:mag:](https://github.com/fusesource/jansi/issues/192) |
+| [2.1.1](https://search.maven.org/artifact/org.fusesource.jansi/jansi/2.1.1/pom) | [mvn jdk11](jansi-2.1.1.buildspec) | [2 :heavy_check_mark:  1 :warning:](jansi-2.1.1.buildcompare) [:mag:](https://github.com/fusesource/jansi/issues/185) |

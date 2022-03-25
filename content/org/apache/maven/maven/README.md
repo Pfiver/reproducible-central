@@ -18,4 +18,4 @@ rebuilding **6 releases** of org.apache.maven:maven:
 | [3.8.3](https://search.maven.org/artifact/org.apache.maven/maven/3.8.3/pom) | [mvn jdk8 w](maven-3.8.3.buildspec) | [47 :heavy_check_mark: ](maven-3.8.3.buildcompare) |
 | [3.8.2](https://search.maven.org/artifact/org.apache.maven/maven/3.8.2/pom) | [mvn jdk8 w](maven-3.8.2.buildspec) | [47 :heavy_check_mark: ](maven-3.8.2.buildcompare) |
 | [3.8.1](https://search.maven.org/artifact/org.apache.maven/maven/3.8.1/pom) | [mvn jdk8 w](maven-3.8.1.buildspec) | :x: |
-| [3.6.3](https://search.maven.org/artifact/org.apache.maven/maven/3.6.3/pom) | [mvn jdk8 w](maven-3.6.3.buildspec) | [2 :heavy_check_mark:  30 :warning:](apache-maven-3.6.3.buildcompare) |
+| [3.6.3](https://search.maven.org/artifact/org.apache.maven/maven/3.6.3/pom) | [mvn jdk8 w](maven-3.6.3.buildspec) | [2 :heavy_check_mark:  30 :warning:](apache-maven-3.6.3.buildcompare) [:mag:](https://issues.apache.org/jira/browse/MNG-6859) |

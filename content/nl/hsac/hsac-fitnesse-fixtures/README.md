@@ -37,9 +37,9 @@ rebuilding **24 releases** of nl.hsac:hsac-fitnesse-fixtures:
 | [4.23.1](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.23.1/pom) | [mvn jdk8](hsac-fitnesse-fixtures-4.23.1.buildspec) | [4 :heavy_check_mark: ](hsac-fitnesse-fixtures-4.23.1.buildcompare) |
 | [4.23.0](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.23.0/pom) | [mvn jdk8](hsac-fitnesse-fixtures-4.23.0.buildspec) | [4 :heavy_check_mark: ](hsac-fitnesse-fixtures-4.23.0.buildcompare) |
 | [4.22.1](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.22.1/pom) | [mvn jdk8](hsac-fitnesse-fixtures-4.22.1.buildspec) | [4 :heavy_check_mark: ](hsac-fitnesse-fixtures-4.22.1.buildcompare) |
-| [4.22.0](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.22.0/pom) | [mvn jdk8](hsac-fitnesse-fixtures-4.22.0.buildspec) | [2 :heavy_check_mark:  2 :warning:](hsac-fitnesse-fixtures-4.22.0.buildcompare) |
-| [4.21.0](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.21.0/pom) | [mvn jdk8](hsac-fitnesse-fixtures-4.21.0.buildspec) | [1 :heavy_check_mark:  3 :warning:](hsac-fitnesse-fixtures-4.21.0.buildcompare) |
-| [4.20.0](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.20.0/pom) | [mvn jdk8](hsac-fitnesse-fixtures-4.20.0.buildspec) | [1 :heavy_check_mark:  3 :warning:](hsac-fitnesse-fixtures-4.20.0.buildcompare) |
+| [4.22.0](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.22.0/pom) | [mvn jdk8](hsac-fitnesse-fixtures-4.22.0.buildspec) | [2 :heavy_check_mark:  2 :warning:](hsac-fitnesse-fixtures-4.22.0.buildcompare) [:mag:](https://github.com/fhoeben/hsac-fitnesse-fixtures/issues/316) |
+| [4.21.0](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.21.0/pom) | [mvn jdk8](hsac-fitnesse-fixtures-4.21.0.buildspec) | [1 :heavy_check_mark:  3 :warning:](hsac-fitnesse-fixtures-4.21.0.buildcompare) [:mag:](https://github.com/fhoeben/hsac-fitnesse-fixtures/issues/316) |
+| [4.20.0](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.20.0/pom) | [mvn jdk8](hsac-fitnesse-fixtures-4.20.0.buildspec) | [1 :heavy_check_mark:  3 :warning:](hsac-fitnesse-fixtures-4.20.0.buildcompare) [:mag:](https://github.com/fhoeben/hsac-fitnesse-fixtures/issues/316) |
 | [4.19.0](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.19.0/pom) | | |
 | [4.18.0](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.18.0/pom) | | |
 | [4.17.0](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.17.0/pom) | | |
@@ -48,5 +48,5 @@ rebuilding **24 releases** of nl.hsac:hsac-fitnesse-fixtures:
 | [4.15.2](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.15.2/pom) | | |
 | [4.15.1](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.15.1/pom) | | |
 | [4.15.0](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.15.0/pom) | | |
-| [4.14.0](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.14.0/pom) | [mvn jdk8](hsac-fitnesse-fixtures-4.14.0.buildspec) | [1 :heavy_check_mark:  3 :warning:](hsac-fitnesse-fixtures-4.14.0.buildcompare) |
-| [4.13.0](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.13.0/pom) | [mvn jdk8](hsac-fitnesse-fixtures-4.13.0.buildspec) | [1 :heavy_check_mark:  3 :warning:](hsac-fitnesse-fixtures-4.13.0.buildcompare) |
+| [4.14.0](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.14.0/pom) | [mvn jdk8](hsac-fitnesse-fixtures-4.14.0.buildspec) | [1 :heavy_check_mark:  3 :warning:](hsac-fitnesse-fixtures-4.14.0.buildcompare) [:mag:](https://github.com/fhoeben/hsac-fitnesse-fixtures/issues/316) |
+| [4.13.0](https://search.maven.org/artifact/nl.hsac/hsac-fitnesse-fixtures/4.13.0/pom) | [mvn jdk8](hsac-fitnesse-fixtures-4.13.0.buildspec) | [1 :heavy_check_mark:  3 :warning:](hsac-fitnesse-fixtures-4.13.0.buildcompare) [:mag:](https://github.com/fhoeben/hsac-fitnesse-fixtures/issues/316) |

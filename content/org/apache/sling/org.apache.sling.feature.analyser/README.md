@@ -19,4 +19,4 @@ rebuilding **2 releases** of org.apache.sling:org.apache.sling.feature.analyser:
 | [1.5.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.feature.analyser/1.5.0/pom) | | |
 | [1.4.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.feature.analyser/1.4.0/pom) | | |
 | [1.3.38](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.feature.analyser/1.3.38/pom) | | |
-| [1.3.34](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.feature.analyser/1.3.34/pom) | [mvn jdk11](org.apache.sling.feature.analyser-1.3.34.buildspec) | [2 :heavy_check_mark:  2 :warning:](org.apache.sling.feature.analyser-1.3.34.buildcompare) |
+| [1.3.34](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.feature.analyser/1.3.34/pom) | [mvn jdk11](org.apache.sling.feature.analyser-1.3.34.buildspec) | [2 :heavy_check_mark:  2 :warning:](org.apache.sling.feature.analyser-1.3.34.buildcompare) [:mag:](https://github.com/apache/sling-org-apache-sling-feature-analyser/pull/36) |

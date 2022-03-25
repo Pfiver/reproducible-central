@@ -42,6 +42,9 @@ do
 
     if [ -n "$buildspec" ]
     then
+      # reset recent fields added to buildspec, to avoid rework of older specs
+      diffoscope=
+      issue=
       . $dir/${buildspec}
       if [ ! -f "${readme}" ]
       then
@@ -60,9 +63,6 @@ do
       # add buildspec result to tmp
       ((countVersion++))
       ((globalVersion++))
-      # reset recent fields added to buildspec, to avoid rework of older specs
-      diffoscope=
-      issue=
 
       echo -n "| [${version}](https://search.maven.org/artifact/${groupId}/${artifactId}/${version}/pom) " >> ${t}
       echo -n "| [${tool} jdk${jdk}" >> ${t}
@@ -76,7 +76,7 @@ do
         [ "${ok}" -gt 0 ] && echo -n "${ok} :heavy_check_mark: " >> ${t}
         [ "${ko}" -gt 0 ] && echo -n " ${ko} :warning:" >> ${t} || ((countVersionOk++)) && ((globalVersionOk++))
         echo -n "](${buildcompare})" >> ${t}
-        [[ -z "${issue}" ]] || echo -n "[:mag:](${issue})" >> ${t}
+        [[ -z "${issue}" ]] || echo -n " [:mag:](${issue})" >> ${t}
         [[ -n "${issue}" ]] && [ "${ko}" -eq 0 ] && echo -e "\n\033[1;31munexpected issue/diffoscope entry when ko=0\033[0m in \033[1m$dir/$buildspec\033[0m" >> ${t}
       else
         echo -n ":x:" >> ${t}

@@ -13,4 +13,4 @@ rebuilding **1 releases** of org.apache.maven.surefire:surefire:
 
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
-| [3.0.0-M5](https://search.maven.org/artifact/org.apache.maven.surefire/surefire/3.0.0-M5/pom) | [mvn jdk8 w](surefire-3.0.0-M5.buildspec) | [45 :heavy_check_mark:  5 :warning:](surefire-shared-utils-3.0.0-M5.buildcompare) |
+| [3.0.0-M5](https://search.maven.org/artifact/org.apache.maven.surefire/surefire/3.0.0-M5/pom) | [mvn jdk8 w](surefire-3.0.0-M5.buildspec) | [45 :heavy_check_mark:  5 :warning:](surefire-shared-utils-3.0.0-M5.buildcompare) [:mag:](https://issues.apache.org/jira/browse/SUREFIRE-1802) |

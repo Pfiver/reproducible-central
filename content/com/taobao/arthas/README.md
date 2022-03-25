@@ -23,12 +23,12 @@ rebuilding **13 releases** of com.taobao.arthas:arthas-all:
 | [3.4.8](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.4.8/pom) | [mvn jdk8](arthas-3.4.8.buildspec) | [48 :heavy_check_mark:  5 :warning:](arthas-all-3.4.8.buildcompare) |
 | [3.4.7](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.4.7/pom) | | |
 | [3.4.6](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.4.6/pom) | [mvn jdk8](arthas-3.4.6.buildspec) | [48 :heavy_check_mark:  5 :warning:](arthas-all-3.4.6.buildcompare) |
-| [3.4.5](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.4.5/pom) | [mvn jdk8](arthas-3.4.5.buildspec) | [31 :heavy_check_mark:  22 :warning:](arthas-all-3.4.5.buildcompare) |
-| [3.4.4](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.4.4/pom) | [mvn jdk8](arthas-3.4.4.buildspec) | [30 :heavy_check_mark:  23 :warning:](arthas-all-3.4.4.buildcompare) |
+| [3.4.5](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.4.5/pom) | [mvn jdk8](arthas-3.4.5.buildspec) | [31 :heavy_check_mark:  22 :warning:](arthas-all-3.4.5.buildcompare) [:mag:](https://github.com/alibaba/arthas/pull/1604) |
+| [3.4.4](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.4.4/pom) | [mvn jdk8](arthas-3.4.4.buildspec) | [30 :heavy_check_mark:  23 :warning:](arthas-all-3.4.4.buildcompare) [:mag:](https://github.com/alibaba/arthas/pull/1604) |
 | [3.4.3](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.4.3/pom) | [mvn jdk8](arthas-3.4.3.buildspec) | [31 :heavy_check_mark:  21 :warning:](arthas-tunnel-server-3.4.3.buildcompare) |
 | [3.4.2](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.4.2/pom) | [mvn jdk8](arthas-3.4.2.buildspec) | [31 :heavy_check_mark:  21 :warning:](arthas-tunnel-server-3.4.2.buildcompare) |
 | [3.4.1](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.4.1/pom) | [mvn jdk8](arthas-3.4.1.buildspec) | [31 :heavy_check_mark:  21 :warning:](arthas-tunnel-server-3.4.1.buildcompare) |
 | [3.4.0](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.4.0/pom) | [mvn jdk8](arthas-3.4.0.buildspec) | [31 :heavy_check_mark:  21 :warning:](arthas-tunnel-server-3.4.0.buildcompare) |
 | [3.3.9](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.3.9/pom) | [mvn jdk8](arthas-3.3.9.buildspec) | [31 :heavy_check_mark:  21 :warning:](arthas-tunnel-server-3.3.9.buildcompare) |
 | [3.3.8](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.3.8/pom) | [mvn jdk8](arthas-3.3.8.buildspec) | [31 :heavy_check_mark:  21 :warning:](arthas-tunnel-server-3.3.8.buildcompare) |
-| [3.3.7](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.3.7/pom) | [mvn jdk8](arthas-3.3.7.buildspec) | [31 :heavy_check_mark:  21 :warning:](arthas-tunnel-server-3.3.7.buildcompare) |
+| [3.3.7](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.3.7/pom) | [mvn jdk8](arthas-3.3.7.buildspec) | [31 :heavy_check_mark:  21 :warning:](arthas-tunnel-server-3.3.7.buildcompare) [:mag:](https://github.com/alibaba/arthas/commit/20f31d47f23b2ac79ea7cb335e335d5e7b1a552a) |
