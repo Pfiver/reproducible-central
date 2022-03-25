@@ -317,7 +317,7 @@ rebuilding **760 releases** of **242 projects**:
 | org.webjars | [flexmonster](content/org/webjars/flexmonster/README.md) | 2 | 2 :heavy_check_mark: |
 | | [swagger-ui](content/org/webjars/swagger-ui/README.md) | 3 | 3 :heavy_check_mark: |
 | world.convex | [convex](content/world/convex/README.md) | 4 | 0 :heavy_check_mark: / 4 :warning: |
-| **Count: 242** | **760** | **583** :heavy_check_mark: **177** :warning: |
+| **Count:** | **242** | **760** | **583** :heavy_check_mark: **177** :warning: |
 <!-- END GENERATED RESULTS TABLE -->
 
 ## Understanding What Is Behind

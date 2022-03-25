@@ -113,7 +113,7 @@ do
   echo " |" >> ${summary}
 done
 
-echo "| **Count: ${countGa}** | **${globalVersion}** | **${globalVersionOk}** :heavy_check_mark: **$((globalVersion - globalVersionOk))** :warning: |" >> ${summary}
+echo "| **Count:** | **${countGa}** | **${globalVersion}** | **${globalVersionOk}** :heavy_check_mark: **$((globalVersion - globalVersionOk))** :warning: |" >> ${summary}
 
 echo "rebuilding **${globalVersion} releases** of **${countGa} projects**:" > summary-intro.md
 echo "- **${globalVersionOk}** releases were found successfully **fully reproducible** (100% reproducible artifacts :heavy_check_mark:)," >> summary-intro.md
