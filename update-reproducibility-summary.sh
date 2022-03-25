@@ -102,7 +102,13 @@ do
   # add projet entry to main README
   echo -n "|" >> ${summary}
   [[ "$groupId" != "$prevGroupId" ]] && prevGroupId="$groupId" && echo -n " ${groupId}" >> ${summary}
-  echo -n " | [${artifactId}](${dir}/README.md) | ${countVersion} | ${countVersionOk} :heavy_check_mark:" >> ${summary}
+  if [ "$artifactId" == "$groupId" ]
+  then
+    echo -n " | [${artifactId}]" >> ${summary}
+  else
+    echo -n " | [${artifactId}]" | sed -e "s/$groupId/*/" >> ${summary}
+  fi
+  echo -n "(${dir}/README.md) | ${countVersion} | ${countVersionOk} :heavy_check_mark:" >> ${summary}
   [ "${countVersion}" -gt "${countVersionOk}" ] && echo -n " / $((countVersion - countVersionOk)) :warning:" >> ${summary}
   echo " |" >> ${summary}
 done

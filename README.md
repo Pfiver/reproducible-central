@@ -99,11 +99,11 @@ rebuilding **760 releases** of **242 projects**:
 | io.github.derkrischan | [jpdftest](content/io/github/derkrischan/jpdftest/README.md) | 3 | 3 :heavy_check_mark: |
 | io.liftwizard | [liftwizard](content/io/liftwizard/README.md) | 22 | 22 :heavy_check_mark: |
 | io.micronaut.build | [micronaut-maven-plugin](content/io/micronaut/build/micronaut-maven-plugin/README.md) | 19 | 19 :heavy_check_mark: |
-| io.wcm | [io.wcm.caconfig.editor.parent](content/io/wcm/caconfig/README.md) | 4 | 0 :heavy_check_mark: / 4 :warning: |
-| | [io.wcm.handler.richtext](content/io/wcm/handler/README.md) | 7 | 1 :heavy_check_mark: / 6 :warning: |
+| io.wcm | [*.caconfig.editor.parent](content/io/wcm/caconfig/README.md) | 4 | 0 :heavy_check_mark: / 4 :warning: |
+| | [*.handler.richtext](content/io/wcm/handler/README.md) | 7 | 1 :heavy_check_mark: / 6 :warning: |
 | io.wcm.maven.plugins | [nodejs-maven-plugin](content/io/wcm/maven/plugins/nodejs-maven-plugin/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
-| io.wcm.tooling.commons | [io.wcm.tooling.commons.content-package-builder](content/io/wcm/tooling/README.md) | 3 | 3 :heavy_check_mark: |
-| io.wcm | [io.wcm.wcm.ui.clientlibs](content/io/wcm/wcm/README.md) | 8 | 6 :heavy_check_mark: / 2 :warning: |
+| io.wcm.tooling.commons | [*.content-package-builder](content/io/wcm/tooling/README.md) | 3 | 3 :heavy_check_mark: |
+| io.wcm | [*.wcm.ui.clientlibs](content/io/wcm/wcm/README.md) | 8 | 6 :heavy_check_mark: / 2 :warning: |
 | net.nicoulaj.maven.plugins | [checksum-maven-plugin](content/net/nicoulaj/maven/plugins/checksum-maven-plugin/README.md) | 1 | 1 :heavy_check_mark: |
 | net.sourceforge.pmd | [pmd](content/net/sourceforge/pmd/README.md) | 20 | 19 :heavy_check_mark: / 1 :warning: |
 | nl.hsac | [hsac-fitnesse-fixtures](content/nl/hsac/hsac-fitnesse-fixtures/README.md) | 24 | 13 :heavy_check_mark: / 11 :warning: |
@@ -116,8 +116,8 @@ rebuilding **760 releases** of **242 projects**:
 | org.apache.cxf.fediz | [fediz](content/org/apache/cxf/fediz/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
 | org.apache.drill | [drill-root](content/org/apache/drill/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
 | org.apache.dubbo | [dubbo](content/org/apache/dubbo/README.md) | 4 | 0 :heavy_check_mark: / 4 :warning: |
-| org.apache.felix | [org.apache.felix.feature](content/org/apache/felix/features/README.md) | 3 | 3 :heavy_check_mark: |
-| | [org.apache.felix.http.parent](content/org/apache/felix/http/parent/README.md) | 1 | 1 :heavy_check_mark: |
+| org.apache.felix | [*.feature](content/org/apache/felix/features/README.md) | 3 | 3 :heavy_check_mark: |
+| | [*.http.parent](content/org/apache/felix/http/parent/README.md) | 1 | 1 :heavy_check_mark: |
 | | [maven-bundle-plugin](content/org/apache/felix/maven-bundle-plugin/README.md) | 2 | 2 :heavy_check_mark: |
 | | [felix-parent](content/org/apache/felix/pom/README.md) | 1 | 1 :heavy_check_mark: |
 | org.apache.httpcomponents | [httpcomponents-parent](content/org/apache/httpcomponents/parent/README.md) | 1 | 1 :heavy_check_mark: |
@@ -192,78 +192,78 @@ rebuilding **760 releases** of **242 projects**:
 | org.apache.shiro | [shiro-root](content/org/apache/shiro/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
 | org.apache.sling | [htl-maven-plugin](content/org/apache/sling/htl-maven-plugin/README.md) | 1 | 1 :heavy_check_mark: |
 | | [jspc-maven-plugin](content/org/apache/sling/jspc-maven-plugin/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.adapter](content/org/apache/sling/org.apache.sling.adapter/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.api](content/org/apache/sling/org.apache.sling.api/README.md) | 4 | 4 :heavy_check_mark: |
-| | [org.apache.sling.auth.core](content/org/apache/sling/org.apache.sling.auth.core/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.bundleresource.impl](content/org/apache/sling/org.apache.sling.bundleresource.impl/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.caconfig.api](content/org/apache/sling/org.apache.sling.caconfig.api/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.caconfig.impl](content/org/apache/sling/org.apache.sling.caconfig.impl/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.caconfig.spi](content/org/apache/sling/org.apache.sling.caconfig.spi/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.commons.content.analyzing](content/org/apache/sling/org.apache.sling.commons.content.analyzing/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.commons.content.processing](content/org/apache/sling/org.apache.sling.commons.content.processing/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.commons.crypto](content/org/apache/sling/org.apache.sling.commons.crypto/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
-| | [org.apache.sling.commons.johnzon](content/org/apache/sling/org.apache.sling.commons.johnzon/README.md) | 5 | 3 :heavy_check_mark: / 2 :warning: |
-| | [org.apache.sling.commons.log](content/org/apache/sling/org.apache.sling.commons.log/README.md) | 2 | 0 :heavy_check_mark: / 2 :warning: |
-| | [org.apache.sling.commons.messaging.mail](content/org/apache/sling/org.apache.sling.commons.messaging.mail/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
-| | [org.apache.sling.commons.messaging](content/org/apache/sling/org.apache.sling.commons.messaging/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.commons.metrics](content/org/apache/sling/org.apache.sling.commons.metrics/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
-| | [org.apache.sling.distribution.journal.kafka](content/org/apache/sling/org.apache.sling.distribution.journal.kafka/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.distribution.journal](content/org/apache/sling/org.apache.sling.distribution.journal/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.engine](content/org/apache/sling/org.apache.sling.engine/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.event](content/org/apache/sling/org.apache.sling.event/README.md) | 5 | 0 :heavy_check_mark: / 5 :warning: |
-| | [org.apache.sling.feature.analyser](content/org/apache/sling/org.apache.sling.feature.analyser/README.md) | 2 | 0 :heavy_check_mark: / 2 :warning: |
-| | [org.apache.sling.feature.cpconverter](content/org/apache/sling/org.apache.sling.feature.cpconverter/README.md) | 2 | 0 :heavy_check_mark: / 2 :warning: |
-| | [org.apache.sling.feature.extension.apiregions](content/org/apache/sling/org.apache.sling.feature.extension.apiregions/README.md) | 5 | 5 :heavy_check_mark: |
-| | [org.apache.sling.feature.extension.unpack](content/org/apache/sling/org.apache.sling.feature.extension.unpack/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
-| | [org.apache.sling.feature.launcher](content/org/apache/sling/org.apache.sling.feature.launcher/README.md) | 4 | 2 :heavy_check_mark: / 2 :warning: |
-| | [org.apache.sling.feature](content/org/apache/sling/org.apache.sling.feature/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
-| | [org.apache.sling.fsresource](content/org/apache/sling/org.apache.sling.fsresource/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.i18n](content/org/apache/sling/org.apache.sling.i18n/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
-| | [org.apache.sling.installer.console](content/org/apache/sling/org.apache.sling.installer.console/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
-| | [org.apache.sling.installer.core](content/org/apache/sling/org.apache.sling.installer.core/README.md) | 4 | 0 :heavy_check_mark: / 4 :warning: |
-| | [org.apache.sling.installer.factory.configuration](content/org/apache/sling/org.apache.sling.installer.factory.configuration/README.md) | 5 | 1 :heavy_check_mark: / 4 :warning: |
-| | [org.apache.sling.installer.factory.packages](content/org/apache/sling/org.apache.sling.installer.factory.packages/README.md) | 2 | 0 :heavy_check_mark: / 2 :warning: |
-| | [org.apache.sling.installer.provider.file](content/org/apache/sling/org.apache.sling.installer.provider.file/README.md) | 3 | 2 :heavy_check_mark: / 1 :warning: |
-| | [org.apache.sling.installer.provider.jcr](content/org/apache/sling/org.apache.sling.installer.provider.jcr/README.md) | 2 | 1 :heavy_check_mark: / 1 :warning: |
-| | [org.apache.sling.javax.activation](content/org/apache/sling/org.apache.sling.javax.activation/README.md) | 2 | 1 :heavy_check_mark: / 1 :warning: |
-| | [org.apache.sling.jcr.contentloader](content/org/apache/sling/org.apache.sling.jcr.contentloader/README.md) | 3 | 0 :heavy_check_mark: / 3 :warning: |
-| | [org.apache.sling.jcr.jackrabbit.accessmanager](content/org/apache/sling/org.apache.sling.jcr.jackrabbit.accessmanager/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
-| | [org.apache.sling.jcr.jackrabbit.usermanager](content/org/apache/sling/org.apache.sling.jcr.jackrabbit.usermanager/README.md) | 3 | 0 :heavy_check_mark: / 3 :warning: |
-| | [org.apache.sling.jcr.maintenance](content/org/apache/sling/org.apache.sling.jcr.maintenance/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.jcr.packageinit](content/org/apache/sling/org.apache.sling.jcr.packageinit/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.jcr.resource](content/org/apache/sling/org.apache.sling.jcr.resource/README.md) | 2 | 2 :heavy_check_mark: |
-| | [org.apache.sling.jcr.resourcesecurity](content/org/apache/sling/org.apache.sling.jcr.resourcesecurity/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.launchpad.test-services](content/org/apache/sling/org.apache.sling.launchpad.test-services/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.models.api](content/org/apache/sling/org.apache.sling.models.api/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.models.caconfig](content/org/apache/sling/org.apache.sling.models.caconfig/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.models.impl](content/org/apache/sling/org.apache.sling.models.impl/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.models.jacksonexporter](content/org/apache/sling/org.apache.sling.models.jacksonexporter/README.md) | 2 | 2 :heavy_check_mark: |
-| | [org.apache.sling.models.validation-impl](content/org/apache/sling/org.apache.sling.models.validation-impl/README.md) | 2 | 2 :heavy_check_mark: |
-| | [org.apache.sling.pipes](content/org/apache/sling/org.apache.sling.pipes/README.md) | 2 | 0 :heavy_check_mark: / 2 :warning: |
-| | [org.apache.sling.repoinit.parser](content/org/apache/sling/org.apache.sling.repoinit.parser/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.resourceaccesssecurity](content/org/apache/sling/org.apache.sling.resourceaccesssecurity/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.resourcemerger](content/org/apache/sling/org.apache.sling.resourcemerger/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.resourceresolver](content/org/apache/sling/org.apache.sling.resourceresolver/README.md) | 3 | 3 :heavy_check_mark: |
-| | [org.apache.sling.rewriter](content/org/apache/sling/org.apache.sling.rewriter/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
-| | [org.apache.sling.scripting.core](content/org/apache/sling/org.apache.sling.scripting.core/README.md) | 2 | 0 :heavy_check_mark: / 2 :warning: |
-| | [org.apache.sling.scripting.sightly.repl](content/org/apache/sling/org.apache.sling.scripting.sightly.repl/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.scripting.sightly.testing-content](content/org/apache/sling/org.apache.sling.scripting.sightly.testing-content/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.scripting.sightly](content/org/apache/sling/org.apache.sling.scripting.sightly/README.md) | 3 | 3 :heavy_check_mark: |
-| | [org.apache.sling.scripting.spi](content/org/apache/sling/org.apache.sling.scripting.spi/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.security](content/org/apache/sling/org.apache.sling.security/README.md) | 2 | 2 :heavy_check_mark: |
-| | [org.apache.sling.servlets.annotations](content/org/apache/sling/org.apache.sling.servlets.annotations/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.servlets.post](content/org/apache/sling/org.apache.sling.servlets.post/README.md) | 2 | 0 :heavy_check_mark: / 2 :warning: |
-| | [org.apache.sling.servlets.resolver](content/org/apache/sling/org.apache.sling.servlets.resolver/README.md) | 4 | 0 :heavy_check_mark: / 4 :warning: |
-| | [org.apache.sling.settings](content/org/apache/sling/org.apache.sling.settings/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.sitemap](content/org/apache/sling/org.apache.sling.sitemap/README.md) | 2 | 2 :heavy_check_mark: |
-| | [org.apache.sling.starter.content](content/org/apache/sling/org.apache.sling.starter.content/README.md) | 2 | 2 :heavy_check_mark: |
-| | [org.apache.sling.starter](content/org/apache/sling/org.apache.sling.starter/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
-| | [org.apache.sling.tenant](content/org/apache/sling/org.apache.sling.tenant/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.testing.caconfig-mock-plugin](content/org/apache/sling/org.apache.sling.testing.caconfig-mock-plugin/README.md) | 3 | 3 :heavy_check_mark: |
-| | [org.apache.sling.testing.clients](content/org/apache/sling/org.apache.sling.testing.clients/README.md) | 4 | 4 :heavy_check_mark: |
-| | [org.apache.sling.testing.jcr-mock](content/org/apache/sling/org.apache.sling.testing.jcr-mock/README.md) | 1 | 1 :heavy_check_mark: |
-| | [org.apache.sling.testing.resourceresolver-mock](content/org/apache/sling/org.apache.sling.testing.resourceresolver-mock/README.md) | 4 | 3 :heavy_check_mark: / 1 :warning: |
-| | [org.apache.sling.testing.sling-mock-oak](content/org/apache/sling/org.apache.sling.testing.sling-mock-oak/README.md) | 3 | 3 :heavy_check_mark: |
+| | [*.adapter](content/org/apache/sling/org.apache.sling.adapter/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.api](content/org/apache/sling/org.apache.sling.api/README.md) | 4 | 4 :heavy_check_mark: |
+| | [*.auth.core](content/org/apache/sling/org.apache.sling.auth.core/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.bundleresource.impl](content/org/apache/sling/org.apache.sling.bundleresource.impl/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.caconfig.api](content/org/apache/sling/org.apache.sling.caconfig.api/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.caconfig.impl](content/org/apache/sling/org.apache.sling.caconfig.impl/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.caconfig.spi](content/org/apache/sling/org.apache.sling.caconfig.spi/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.commons.content.analyzing](content/org/apache/sling/org.apache.sling.commons.content.analyzing/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.commons.content.processing](content/org/apache/sling/org.apache.sling.commons.content.processing/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.commons.crypto](content/org/apache/sling/org.apache.sling.commons.crypto/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
+| | [*.commons.johnzon](content/org/apache/sling/org.apache.sling.commons.johnzon/README.md) | 5 | 3 :heavy_check_mark: / 2 :warning: |
+| | [*.commons.log](content/org/apache/sling/org.apache.sling.commons.log/README.md) | 2 | 0 :heavy_check_mark: / 2 :warning: |
+| | [*.commons.messaging.mail](content/org/apache/sling/org.apache.sling.commons.messaging.mail/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
+| | [*.commons.messaging](content/org/apache/sling/org.apache.sling.commons.messaging/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.commons.metrics](content/org/apache/sling/org.apache.sling.commons.metrics/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
+| | [*.distribution.journal.kafka](content/org/apache/sling/org.apache.sling.distribution.journal.kafka/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.distribution.journal](content/org/apache/sling/org.apache.sling.distribution.journal/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.engine](content/org/apache/sling/org.apache.sling.engine/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.event](content/org/apache/sling/org.apache.sling.event/README.md) | 5 | 0 :heavy_check_mark: / 5 :warning: |
+| | [*.feature.analyser](content/org/apache/sling/org.apache.sling.feature.analyser/README.md) | 2 | 0 :heavy_check_mark: / 2 :warning: |
+| | [*.feature.cpconverter](content/org/apache/sling/org.apache.sling.feature.cpconverter/README.md) | 2 | 0 :heavy_check_mark: / 2 :warning: |
+| | [*.feature.extension.apiregions](content/org/apache/sling/org.apache.sling.feature.extension.apiregions/README.md) | 5 | 5 :heavy_check_mark: |
+| | [*.feature.extension.unpack](content/org/apache/sling/org.apache.sling.feature.extension.unpack/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
+| | [*.feature.launcher](content/org/apache/sling/org.apache.sling.feature.launcher/README.md) | 4 | 2 :heavy_check_mark: / 2 :warning: |
+| | [*.feature](content/org/apache/sling/org.apache.sling.feature/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
+| | [*.fsresource](content/org/apache/sling/org.apache.sling.fsresource/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.i18n](content/org/apache/sling/org.apache.sling.i18n/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
+| | [*.installer.console](content/org/apache/sling/org.apache.sling.installer.console/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
+| | [*.installer.core](content/org/apache/sling/org.apache.sling.installer.core/README.md) | 4 | 0 :heavy_check_mark: / 4 :warning: |
+| | [*.installer.factory.configuration](content/org/apache/sling/org.apache.sling.installer.factory.configuration/README.md) | 5 | 1 :heavy_check_mark: / 4 :warning: |
+| | [*.installer.factory.packages](content/org/apache/sling/org.apache.sling.installer.factory.packages/README.md) | 2 | 0 :heavy_check_mark: / 2 :warning: |
+| | [*.installer.provider.file](content/org/apache/sling/org.apache.sling.installer.provider.file/README.md) | 3 | 2 :heavy_check_mark: / 1 :warning: |
+| | [*.installer.provider.jcr](content/org/apache/sling/org.apache.sling.installer.provider.jcr/README.md) | 2 | 1 :heavy_check_mark: / 1 :warning: |
+| | [*.javax.activation](content/org/apache/sling/org.apache.sling.javax.activation/README.md) | 2 | 1 :heavy_check_mark: / 1 :warning: |
+| | [*.jcr.contentloader](content/org/apache/sling/org.apache.sling.jcr.contentloader/README.md) | 3 | 0 :heavy_check_mark: / 3 :warning: |
+| | [*.jcr.jackrabbit.accessmanager](content/org/apache/sling/org.apache.sling.jcr.jackrabbit.accessmanager/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
+| | [*.jcr.jackrabbit.usermanager](content/org/apache/sling/org.apache.sling.jcr.jackrabbit.usermanager/README.md) | 3 | 0 :heavy_check_mark: / 3 :warning: |
+| | [*.jcr.maintenance](content/org/apache/sling/org.apache.sling.jcr.maintenance/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.jcr.packageinit](content/org/apache/sling/org.apache.sling.jcr.packageinit/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.jcr.resource](content/org/apache/sling/org.apache.sling.jcr.resource/README.md) | 2 | 2 :heavy_check_mark: |
+| | [*.jcr.resourcesecurity](content/org/apache/sling/org.apache.sling.jcr.resourcesecurity/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.launchpad.test-services](content/org/apache/sling/org.apache.sling.launchpad.test-services/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.models.api](content/org/apache/sling/org.apache.sling.models.api/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.models.caconfig](content/org/apache/sling/org.apache.sling.models.caconfig/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.models.impl](content/org/apache/sling/org.apache.sling.models.impl/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.models.jacksonexporter](content/org/apache/sling/org.apache.sling.models.jacksonexporter/README.md) | 2 | 2 :heavy_check_mark: |
+| | [*.models.validation-impl](content/org/apache/sling/org.apache.sling.models.validation-impl/README.md) | 2 | 2 :heavy_check_mark: |
+| | [*.pipes](content/org/apache/sling/org.apache.sling.pipes/README.md) | 2 | 0 :heavy_check_mark: / 2 :warning: |
+| | [*.repoinit.parser](content/org/apache/sling/org.apache.sling.repoinit.parser/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.resourceaccesssecurity](content/org/apache/sling/org.apache.sling.resourceaccesssecurity/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.resourcemerger](content/org/apache/sling/org.apache.sling.resourcemerger/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.resourceresolver](content/org/apache/sling/org.apache.sling.resourceresolver/README.md) | 3 | 3 :heavy_check_mark: |
+| | [*.rewriter](content/org/apache/sling/org.apache.sling.rewriter/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
+| | [*.scripting.core](content/org/apache/sling/org.apache.sling.scripting.core/README.md) | 2 | 0 :heavy_check_mark: / 2 :warning: |
+| | [*.scripting.sightly.repl](content/org/apache/sling/org.apache.sling.scripting.sightly.repl/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.scripting.sightly.testing-content](content/org/apache/sling/org.apache.sling.scripting.sightly.testing-content/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.scripting.sightly](content/org/apache/sling/org.apache.sling.scripting.sightly/README.md) | 3 | 3 :heavy_check_mark: |
+| | [*.scripting.spi](content/org/apache/sling/org.apache.sling.scripting.spi/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.security](content/org/apache/sling/org.apache.sling.security/README.md) | 2 | 2 :heavy_check_mark: |
+| | [*.servlets.annotations](content/org/apache/sling/org.apache.sling.servlets.annotations/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.servlets.post](content/org/apache/sling/org.apache.sling.servlets.post/README.md) | 2 | 0 :heavy_check_mark: / 2 :warning: |
+| | [*.servlets.resolver](content/org/apache/sling/org.apache.sling.servlets.resolver/README.md) | 4 | 0 :heavy_check_mark: / 4 :warning: |
+| | [*.settings](content/org/apache/sling/org.apache.sling.settings/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.sitemap](content/org/apache/sling/org.apache.sling.sitemap/README.md) | 2 | 2 :heavy_check_mark: |
+| | [*.starter.content](content/org/apache/sling/org.apache.sling.starter.content/README.md) | 2 | 2 :heavy_check_mark: |
+| | [*.starter](content/org/apache/sling/org.apache.sling.starter/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
+| | [*.tenant](content/org/apache/sling/org.apache.sling.tenant/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.testing.caconfig-mock-plugin](content/org/apache/sling/org.apache.sling.testing.caconfig-mock-plugin/README.md) | 3 | 3 :heavy_check_mark: |
+| | [*.testing.clients](content/org/apache/sling/org.apache.sling.testing.clients/README.md) | 4 | 4 :heavy_check_mark: |
+| | [*.testing.jcr-mock](content/org/apache/sling/org.apache.sling.testing.jcr-mock/README.md) | 1 | 1 :heavy_check_mark: |
+| | [*.testing.resourceresolver-mock](content/org/apache/sling/org.apache.sling.testing.resourceresolver-mock/README.md) | 4 | 3 :heavy_check_mark: / 1 :warning: |
+| | [*.testing.sling-mock-oak](content/org/apache/sling/org.apache.sling.testing.sling-mock-oak/README.md) | 3 | 3 :heavy_check_mark: |
 | | [scriptingbundle-maven-plugin](content/org/apache/sling/scriptingbundle-maven-plugin/README.md) | 3 | 0 :heavy_check_mark: / 3 :warning: |
 | | [slingfeature-maven-plugin](content/org/apache/sling/slingfeature-maven-plugin/README.md) | 5 | 2 :heavy_check_mark: / 3 :warning: |
 | org.apache.sshd | [sshd](content/org/apache/sshd/README.md) | 2 | 0 :heavy_check_mark: / 2 :warning: |
@@ -294,7 +294,7 @@ rebuilding **760 releases** of **242 projects**:
 | org.cyclonedx | [cyclonedx-core-java](content/org/cyclonedx/cyclonedx-core-java/README.md) | 20 | 20 :heavy_check_mark: |
 | | [cyclonedx-maven-plugin](content/org/cyclonedx/cyclonedx-maven-plugin/README.md) | 8 | 8 :heavy_check_mark: |
 | org.eclipse.jkube | [jkube](content/org/eclipse/jkube/README.md) | 9 | 9 :heavy_check_mark: |
-| org.eclipse.transformer | [org.eclipse.transformer.parent](content/org/eclipse/transformer/README.md) | 1 | 1 :heavy_check_mark: |
+| org.eclipse.transformer | [*.parent](content/org/eclipse/transformer/README.md) | 1 | 1 :heavy_check_mark: |
 | org.fusesource.jansi | [jansi](content/org/fusesource/jansi/jansi/README.md) | 8 | 5 :heavy_check_mark: / 3 :warning: |
 | org.jline | [jline-parent](content/org/jline/jline/README.md) | 2 | 2 :heavy_check_mark: |
 | org.jrivard.xmlchai | [xmlchai](content/org/jrivard/xmlchai/README.md) | 1 | 0 :heavy_check_mark: / 1 :warning: |
@@ -304,7 +304,7 @@ rebuilding **760 releases** of **242 projects**:
 | | [mybatis-parent](content/org/mybatis/parent/README.md) | 1 | 1 :heavy_check_mark: |
 | org.nlpub | [watset](content/org/nlpub/watset/README.md) | 12 | 11 :heavy_check_mark: / 1 :warning: |
 | org.openapitools.openapidiff | [openapi-diff-parent](content/org/openapitools/openapidiff/README.md) | 1 | 1 :heavy_check_mark: |
-| org.osgi | [org.osgi.test.parent](content/org/osgi/test/README.md) | 3 | 2 :heavy_check_mark: / 1 :warning: |
+| org.osgi | [*.test.parent](content/org/osgi/test/README.md) | 3 | 2 :heavy_check_mark: / 1 :warning: |
 | org.owasp.antisamy | [antisamy](content/org/owasp/antisamy/README.md) | 6 | 6 :heavy_check_mark: |
 | org.quickperf | [quick-perf](content/org/quickperf/README.md) | 3 | 3 :heavy_check_mark: |
 | org.simplify4u | [pgp-keys-map](content/org/simplify4u/pgp-keys-map/README.md) | 12 | 12 :heavy_check_mark: |
