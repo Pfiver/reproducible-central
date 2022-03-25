@@ -28,6 +28,21 @@ rebuilding **2 releases** of org.apache.sshd:sshd:
 | [1.4.0](https://search.maven.org/artifact/org.apache.sshd/sshd/1.4.0/pom) | | |
 | [1.3.0](https://search.maven.org/artifact/org.apache.sshd/sshd/1.3.0/pom) | | |
 | [1.2.0](https://search.maven.org/artifact/org.apache.sshd/sshd/1.2.0/pom) | | |
+| [2.8.0](https://search.maven.org/artifact/org.apache.sshd/sshd/2.8.0/pom) | [mvn jdk8](sshd-2.8.0.buildspec) | [31 :heavy_check_mark:  21 :warning:](sshd-2.8.0.buildcompare) |
+| [2.7.0](https://search.maven.org/artifact/org.apache.sshd/sshd/2.7.0/pom) | | |
+| [2.6.0](https://search.maven.org/artifact/org.apache.sshd/sshd/2.6.0/pom) | [mvn jdk8](sshd-2.6.0.buildspec) | [15 :heavy_check_mark:  21 :warning:](sshd-2.6.0.buildcompare) |
+| [2.5.1](https://search.maven.org/artifact/org.apache.sshd/sshd/2.5.1/pom) | | |
+| [2.5.0](https://search.maven.org/artifact/org.apache.sshd/sshd/2.5.0/pom) | | |
+| [2.4.0](https://search.maven.org/artifact/org.apache.sshd/sshd/2.4.0/pom) | | |
+| [2.3.0](https://search.maven.org/artifact/org.apache.sshd/sshd/2.3.0/pom) | | |
+| [2.2.0](https://search.maven.org/artifact/org.apache.sshd/sshd/2.2.0/pom) | | |
+| [2.1.0](https://search.maven.org/artifact/org.apache.sshd/sshd/2.1.0/pom) | | |
+| [2.0.0](https://search.maven.org/artifact/org.apache.sshd/sshd/2.0.0/pom) | | |
+| [1.7.0](https://search.maven.org/artifact/org.apache.sshd/sshd/1.7.0/pom) | | |
+| [1.6.0](https://search.maven.org/artifact/org.apache.sshd/sshd/1.6.0/pom) | | |
+| [1.4.0](https://search.maven.org/artifact/org.apache.sshd/sshd/1.4.0/pom) | | |
+| [1.3.0](https://search.maven.org/artifact/org.apache.sshd/sshd/1.3.0/pom) | | |
+| [1.2.0](https://search.maven.org/artifact/org.apache.sshd/sshd/1.2.0/pom) | | |
 | [1.1.1](https://search.maven.org/artifact/org.apache.sshd/sshd/1.1.1/pom) | | |
 | [1.1.0](https://search.maven.org/artifact/org.apache.sshd/sshd/1.1.0/pom) | | |
 | [1.0.0](https://search.maven.org/artifact/org.apache.sshd/sshd/1.0.0/pom) | | |

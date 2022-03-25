@@ -86,7 +86,9 @@ do
   \rm -f ${t}
 
   # add projet entry to main README
-  echo "| [${groupId}:${artifactId}](content/${dir}/README.md) | ${countVersion} | ${countVersionOk} :heavy_check_mark: / $((countVersion - countVersionOk)) :warning: |" >> ${summary}
+  echo -n "| [${groupId}:${artifactId}](${dir}/README.md) | ${countVersion} | ${countVersionOk} :heavy_check_mark:" >> ${summary}
+  [ "${countVersion}" -gt "${countVersionOk}" ] && echo -n " / $((countVersion - countVersionOk)) :warning:" >> ${summary}
+  echo " |" >> ${summary}
 done
 
 echo "| **Count: ${countGa}** | **${globalVersion}** | **${globalVersionOk}** :heavy_check_mark: **$((globalVersion - globalVersionOk))** :warning: |" >> ${summary}
