@@ -16,8 +16,3 @@ rebuilding **3 releases** of com.github.package-url:packageurl-java:
 | [1.4.1](https://search.maven.org/artifact/com.github.package-url/packageurl-java/1.4.1/pom) | [mvn jdk8](packageurl-java-1.4.1.buildspec) | [3 :heavy_check_mark: ](packageurl-java-1.4.1.buildcompare) |
 | [1.4.0](https://search.maven.org/artifact/com.github.package-url/packageurl-java/1.4.0/pom) | [mvn jdk8](packageurl-java-1.4.0.buildspec) | [3 :heavy_check_mark: ](packageurl-java-1.4.0.buildcompare) |
 | [1.3.1](https://search.maven.org/artifact/com.github.package-url/packageurl-java/1.3.1/pom) | [mvn jdk8](packageurl-java-1.3.1.buildspec) | [3 :heavy_check_mark: ](packageurl-java-1.3.1.buildcompare) |
-| [1.3.0](https://search.maven.org/artifact/com.github.package-url/packageurl-java/1.3.0/pom) | | |
-| [1.2.0](https://search.maven.org/artifact/com.github.package-url/packageurl-java/1.2.0/pom) | | |
-| [1.1.1](https://search.maven.org/artifact/com.github.package-url/packageurl-java/1.1.1/pom) | | |
-| [1.1.0](https://search.maven.org/artifact/com.github.package-url/packageurl-java/1.1.0/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/com.github.package-url/packageurl-java/1.0.0/pom) | | |

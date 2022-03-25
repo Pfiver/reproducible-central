@@ -14,15 +14,3 @@ rebuilding **1 releases** of org.openapitools.openapidiff:openapi-diff-parent:
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [2.0.1](https://search.maven.org/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.0.1/pom) | [mvn jdk11](openapi-diff-2.0.1.buildspec) | [11 :heavy_check_mark: ](openapi-diff-parent-2.0.1.buildcompare) |
-| [2.0.0](https://search.maven.org/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.0.0/pom) | | |
-| [2.0.0-beta.15](https://search.maven.org/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.0.0-beta.15/pom) | | |
-| [2.0.0-beta.14](https://search.maven.org/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.0.0-beta.14/pom) | | |
-| [2.0.0-beta.13](https://search.maven.org/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.0.0-beta.13/pom) | | |
-| [2.0.0-beta.12](https://search.maven.org/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.0.0-beta.12/pom) | | |
-| [2.0.0-beta.11](https://search.maven.org/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.0.0-beta.11/pom) | | |
-| [2.0.0-beta.10](https://search.maven.org/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.0.0-beta.10/pom) | | |
-| [2.0.0-beta.9](https://search.maven.org/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.0.0-beta.9/pom) | | |
-| [2.0.0-beta.8](https://search.maven.org/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.0.0-beta.8/pom) | | |
-| [2.0.0-beta.7](https://search.maven.org/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.0.0-beta.7/pom) | | |
-| [2.0.0-beta.6](https://search.maven.org/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.0.0-beta.6/pom) | | |
-| [2.0.0-beta.5](https://search.maven.org/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.0.0-beta.5/pom) | | |

@@ -14,7 +14,3 @@ rebuilding **1 releases** of org.apache.sling:jspc-maven-plugin:
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [2.3.2](https://search.maven.org/artifact/org.apache.sling/jspc-maven-plugin/2.3.2/pom) | [mvn jdk11](jspc-maven-plugin-2.3.2.buildspec) | [4 :heavy_check_mark: ](jspc-maven-plugin-2.3.2.buildcompare) |
-| [2.3.0](https://search.maven.org/artifact/org.apache.sling/jspc-maven-plugin/2.3.0/pom) | | |
-| [2.2.2](https://search.maven.org/artifact/org.apache.sling/jspc-maven-plugin/2.2.2/pom) | | |
-| [2.2.0](https://search.maven.org/artifact/org.apache.sling/jspc-maven-plugin/2.2.0/pom) | | |
-| [2.1.0](https://search.maven.org/artifact/org.apache.sling/jspc-maven-plugin/2.1.0/pom) | | |

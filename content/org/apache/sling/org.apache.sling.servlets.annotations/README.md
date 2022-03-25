@@ -14,6 +14,3 @@ rebuilding **1 releases** of org.apache.sling:org.apache.sling.servlets.annotati
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [1.2.6](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.servlets.annotations/1.2.6/pom) | [mvn jdk11](org.apache.sling.servlets.annotations-1.2.6.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.servlets.annotations-1.2.6.buildcompare) |
-| [1.2.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.servlets.annotations/1.2.4/pom) | | |
-| [1.1.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.servlets.annotations/1.1.0/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.servlets.annotations/1.0.0/pom) | | |

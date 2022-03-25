@@ -17,19 +17,3 @@ rebuilding **4 releases** of org.apache.sling:org.apache.sling.testing.clients:
 | [3.0.10](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/3.0.10/pom) | [mvn jdk11](org.apache.sling.testing.clients-3.0.10.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.testing.clients-3.0.10.buildcompare) |
 | [3.0.6](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/3.0.6/pom) | [mvn jdk11](org.apache.sling.testing.clients-3.0.6.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.testing.clients-3.0.6.buildcompare) |
 | [3.0.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/3.0.4/pom) | [mvn jdk8](org.apache.sling.testing.clients-3.0.4.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.testing.clients-3.0.4.buildcompare) |
-| [2.0.12](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/2.0.12/pom) | | |
-| [2.0.10](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/2.0.10/pom) | | |
-| [2.0.8](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/2.0.8/pom) | | |
-| [2.0.6](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/2.0.6/pom) | | |
-| [2.0.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/2.0.4/pom) | | |
-| [2.0.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/2.0.2/pom) | | |
-| [2.0.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/2.0.0/pom) | | |
-| [1.2.6](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/1.2.6/pom) | | |
-| [1.2.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/1.2.4/pom) | | |
-| [1.2.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/1.2.2/pom) | | |
-| [1.2.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/1.2.0/pom) | | |
-| [1.1.12](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/1.1.12/pom) | | |
-| [1.1.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/1.1.4/pom) | | |
-| [1.1.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/1.1.0/pom) | | |
-| [1.0.1](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/1.0.1/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.clients/1.0.0/pom) | | |

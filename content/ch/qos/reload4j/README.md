@@ -15,8 +15,3 @@ rebuilding **2 releases** of ch.qos.reload4j:reload4j:
 | -- | --------- | ------ |
 | [1.2.19](https://search.maven.org/artifact/ch.qos.reload4j/reload4j/1.2.19/pom) | [mvn jdk8 w](reload4j-1.2.19.buildspec) | [2 :heavy_check_mark:  2 :warning:](reload4j-1.2.19.buildcompare) |
 | [1.2.18.5](https://search.maven.org/artifact/ch.qos.reload4j/reload4j/1.2.18.5/pom) | [mvn jdk8 w](reload4j-1.2.18.5.buildspec) | [2 :heavy_check_mark:  2 :warning:](reload4j-1.2.18.5.buildcompare) |
-| [1.2.18.4](https://search.maven.org/artifact/ch.qos.reload4j/reload4j/1.2.18.4/pom) | | |
-| [1.2.18.3](https://search.maven.org/artifact/ch.qos.reload4j/reload4j/1.2.18.3/pom) | | |
-| [1.2.18.2](https://search.maven.org/artifact/ch.qos.reload4j/reload4j/1.2.18.2/pom) | | |
-| [1.2.18.1](https://search.maven.org/artifact/ch.qos.reload4j/reload4j/1.2.18.1/pom) | | |
-| [1.2.18.0](https://search.maven.org/artifact/ch.qos.reload4j/reload4j/1.2.18.0/pom) | | |

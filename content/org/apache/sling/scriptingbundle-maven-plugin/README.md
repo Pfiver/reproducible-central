@@ -16,7 +16,3 @@ rebuilding **3 releases** of org.apache.sling:scriptingbundle-maven-plugin:
 | [0.5.2](https://search.maven.org/artifact/org.apache.sling/scriptingbundle-maven-plugin/0.5.2/pom) | [mvn jdk11](scriptingbundle-maven-plugin-0.5.2.buildspec) | [3 :heavy_check_mark:  1 :warning:](scriptingbundle-maven-plugin-0.5.2.buildcompare) |
 | [0.5.0](https://search.maven.org/artifact/org.apache.sling/scriptingbundle-maven-plugin/0.5.0/pom) | [mvn jdk11](scriptingbundle-maven-plugin-0.5.0.buildspec) | [3 :heavy_check_mark:  1 :warning:](scriptingbundle-maven-plugin-0.5.0.buildcompare) |
 | [0.4.0](https://search.maven.org/artifact/org.apache.sling/scriptingbundle-maven-plugin/0.4.0/pom) | [mvn jdk11](scriptingbundle-maven-plugin-0.4.0.buildspec) | [3 :heavy_check_mark:  1 :warning:](scriptingbundle-maven-plugin-0.4.0.buildcompare) |
-| [0.3.0](https://search.maven.org/artifact/org.apache.sling/scriptingbundle-maven-plugin/0.3.0/pom) | | |
-| [0.2.2](https://search.maven.org/artifact/org.apache.sling/scriptingbundle-maven-plugin/0.2.2/pom) | | |
-| [0.2.0](https://search.maven.org/artifact/org.apache.sling/scriptingbundle-maven-plugin/0.2.0/pom) | | |
-| [0.1.0](https://search.maven.org/artifact/org.apache.sling/scriptingbundle-maven-plugin/0.1.0/pom) | | |

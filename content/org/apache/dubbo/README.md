@@ -31,11 +31,3 @@ rebuilding **4 releases** of org.apache.dubbo:dubbo:
 | [2.7.9](https://search.maven.org/artifact/org.apache.dubbo/dubbo/2.7.9/pom) | [mvn jdk8](dubbo-2.7.9.buildspec) | [122 :heavy_check_mark:  30 :warning:](dubbo-parent-2.7.9.buildcompare) |
 | [2.7.8](https://search.maven.org/artifact/org.apache.dubbo/dubbo/2.7.8/pom) | [mvn jdk8](dubbo-2.7.8.buildspec) | [148 :heavy_check_mark:  3 :warning:](dubbo-metadata-processor-2.7.8.buildcompare) |
 | [2.7.7](https://search.maven.org/artifact/org.apache.dubbo/dubbo/2.7.7/pom) | [mvn jdk8](dubbo-2.7.7.buildspec) | [148 :heavy_check_mark:  2 :warning:](dubbo-parent-2.7.7.buildcompare) |
-| [2.7.6](https://search.maven.org/artifact/org.apache.dubbo/dubbo/2.7.6/pom) | | |
-| [2.7.5](https://search.maven.org/artifact/org.apache.dubbo/dubbo/2.7.5/pom) | | |
-| [2.7.4.1](https://search.maven.org/artifact/org.apache.dubbo/dubbo/2.7.4.1/pom) | | |
-| [2.7.4](https://search.maven.org/artifact/org.apache.dubbo/dubbo/2.7.4/pom) | | |
-| [2.7.3](https://search.maven.org/artifact/org.apache.dubbo/dubbo/2.7.3/pom) | | |
-| [2.7.2](https://search.maven.org/artifact/org.apache.dubbo/dubbo/2.7.2/pom) | | |
-| [2.7.1](https://search.maven.org/artifact/org.apache.dubbo/dubbo/2.7.1/pom) | | |
-| [2.7.0](https://search.maven.org/artifact/org.apache.dubbo/dubbo/2.7.0/pom) | | |

@@ -14,6 +14,3 @@ rebuilding **1 releases** of org.apache.maven.shared:maven-script-interpreter:
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [1.3](https://search.maven.org/artifact/org.apache.maven.shared/maven-script-interpreter/1.3/pom) | [mvn jdk15 w](maven-script-interpreter-1.3.buildspec) | [4 :heavy_check_mark: ](maven-script-interpreter-1.3.buildcompare) |
-| [1.2](https://search.maven.org/artifact/org.apache.maven.shared/maven-script-interpreter/1.2/pom) | | |
-| [1.1](https://search.maven.org/artifact/org.apache.maven.shared/maven-script-interpreter/1.1/pom) | | |
-| [1.0](https://search.maven.org/artifact/org.apache.maven.shared/maven-script-interpreter/1.0/pom) | | |

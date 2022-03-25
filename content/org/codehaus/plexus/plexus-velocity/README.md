@@ -14,11 +14,3 @@ rebuilding **1 releases** of org.codehaus.plexus:plexus-velocity:
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [1.3](https://search.maven.org/artifact/org.codehaus.plexus/plexus-velocity/1.3/pom) | [mvn jdk16 w](plexus-velocity-1.3.buildspec) | [4 :heavy_check_mark: ](plexus-velocity-1.3.buildcompare) |
-| [1.2](https://search.maven.org/artifact/org.codehaus.plexus/plexus-velocity/1.2/pom) | | |
-| [1.1.8](https://search.maven.org/artifact/org.codehaus.plexus/plexus-velocity/1.1.8/pom) | | |
-| [1.1.7](https://search.maven.org/artifact/org.codehaus.plexus/plexus-velocity/1.1.7/pom) | | |
-| [1.1.6](https://search.maven.org/artifact/org.codehaus.plexus/plexus-velocity/1.1.6/pom) | | |
-| [1.1.5](https://search.maven.org/artifact/org.codehaus.plexus/plexus-velocity/1.1.5/pom) | | |
-| [1.1.4](https://search.maven.org/artifact/org.codehaus.plexus/plexus-velocity/1.1.4/pom) | | |
-| [1.1.3](https://search.maven.org/artifact/org.codehaus.plexus/plexus-velocity/1.1.3/pom) | | |
-| [1.1.2](https://search.maven.org/artifact/org.codehaus.plexus/plexus-velocity/1.1.2/pom) | | |

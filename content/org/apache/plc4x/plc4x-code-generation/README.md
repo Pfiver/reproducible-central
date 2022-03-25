@@ -14,8 +14,3 @@ rebuilding **1 releases** of org.apache.plc4x.plugins:plc4x-code-generaton:
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [1.5.0](https://search.maven.org/artifact/org.apache.plc4x.plugins/plc4x-code-generaton/1.5.0/pom) | [mvn jdk11 w](plc4x-code-generaton-1.5.0.buildspec) | [9 :heavy_check_mark: ](plc4x-code-generaton-1.5.0.buildcompare) |
-| [1.4.0](https://search.maven.org/artifact/org.apache.plc4x.plugins/plc4x-code-generaton/1.4.0/pom) | | |
-| [1.3.0](https://search.maven.org/artifact/org.apache.plc4x.plugins/plc4x-code-generaton/1.3.0/pom) | | |
-| [1.2.0](https://search.maven.org/artifact/org.apache.plc4x.plugins/plc4x-code-generaton/1.2.0/pom) | | |
-| [1.1.0](https://search.maven.org/artifact/org.apache.plc4x.plugins/plc4x-code-generaton/1.1.0/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/org.apache.plc4x.plugins/plc4x-code-generaton/1.0.0/pom) | | |

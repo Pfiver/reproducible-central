@@ -16,8 +16,3 @@ rebuilding **3 releases** of org.apache.sling:org.apache.sling.installer.provide
 | [1.3.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.installer.provider.file/1.3.4/pom) | [mvn jdk11](org.apache.sling.installer.provider.file-1.3.4.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.installer.provider.file-1.3.4.buildcompare) |
 | [1.3.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.installer.provider.file/1.3.0/pom) | [mvn jdk8](org.apache.sling.installer.provider.file-1.3.0.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.installer.provider.file-1.3.0.buildcompare) |
 | [1.2.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.installer.provider.file/1.2.2/pom) | [mvn jdk8](org.apache.sling.installer.provider.file-1.2.2.buildspec) | [2 :heavy_check_mark:  1 :warning:](org.apache.sling.installer.provider.file-1.2.2.buildcompare) |
-| [1.2.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.installer.provider.file/1.2.0/pom) | | |
-| [1.1.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.installer.provider.file/1.1.0/pom) | | |
-| [1.0.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.installer.provider.file/1.0.4/pom) | | |
-| [1.0.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.installer.provider.file/1.0.2/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.installer.provider.file/1.0.0/pom) | | |

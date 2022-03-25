@@ -18,20 +18,3 @@ rebuilding **4 releases** of org.apache.sling:org.apache.sling.testing.resourcer
 | [1.2.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.2.2/pom) | [mvn jdk11](org.apache.sling.testing.resourceresolver-mock-1.2.2.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.testing.resourceresolver-mock-1.2.2.buildcompare) |
 | [1.2.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.2.0/pom) | | |
 | [1.1.26](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.1.26/pom) | [mvn jdk8 w](org.apache.sling.testing.resourceresolver-mock-1.1.26.buildspec) | [1 :heavy_check_mark:  3 :warning:](org.apache.sling.testing.resourceresolver-mock-1.1.26.buildcompare) |
-| [1.1.24](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.1.24/pom) | | |
-| [1.1.22](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.1.22/pom) | | |
-| [1.1.20](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.1.20/pom) | | |
-| [1.1.18](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.1.18/pom) | | |
-| [1.1.16](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.1.16/pom) | | |
-| [1.1.14](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.1.14/pom) | | |
-| [1.1.12](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.1.12/pom) | | |
-| [1.1.10](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.1.10/pom) | | |
-| [1.1.8](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.1.8/pom) | | |
-| [1.1.6](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.1.6/pom) | | |
-| [1.1.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.1.4/pom) | | |
-| [1.1.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.1.2/pom) | | |
-| [1.1.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.1.0/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/1.0.0/pom) | | |
-| [0.3.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/0.3.0/pom) | | |
-| [0.2.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/0.2.0/pom) | | |
-| [0.1.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.resourceresolver-mock/0.1.0/pom) | | |

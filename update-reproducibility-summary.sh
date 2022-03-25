@@ -22,6 +22,17 @@ do
   countVersion=0
   countVersionOk=0
 
+  # detect first version that has a buildspec
+  firstVersion=
+  for version in $(cat "${metadata}" | grep 'version>' | cut -d '>' -f 2 | cut -d '<' -f 1)
+  do
+    if [ -n "$(ls $dir | grep "\-${version}\.buildspec")" ]
+    then
+      firstVersion="$version"
+      break
+    fi
+  done
+
   for version in $(tac "${metadata}" | grep 'version>' | cut -d '>' -f 2 | cut -d '<' -f 1)
   do
     buildspec=$(ls $dir | grep "\-${version}\.buildspec")
@@ -74,6 +85,8 @@ do
       # no buildspec, just list version to tmp
       echo "| [${version}](https://search.maven.org/artifact/${groupId}/${artifactId}/${version}/pom) | | |" >> "${t}"
     fi
+    # don't continue if it's the first version with buildspec
+    [[ "$firstVersion" == "$version" ]] && break
   done
 
   echo "rebuilding **${countVersion} releases** of ${groupId}:${artifactId}:" >> $readme

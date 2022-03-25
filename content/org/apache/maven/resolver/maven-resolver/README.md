@@ -21,12 +21,3 @@ rebuilding **8 releases** of org.apache.maven.resolver:maven-resolver:
 | [1.6.2](https://search.maven.org/artifact/org.apache.maven.resolver/maven-resolver/1.6.2/pom) | [mvn jdk8 w](maven-resolver-1.6.2.buildspec) | [39 :heavy_check_mark: ](maven-resolver-synccontext-redisson-1.6.2.buildcompare) |
 | [1.6.1](https://search.maven.org/artifact/org.apache.maven.resolver/maven-resolver/1.6.1/pom) | [mvn jdk8 w](maven-resolver-1.6.1.buildspec) | [39 :heavy_check_mark: ](maven-resolver-synccontext-redisson-1.6.1.buildcompare) |
 | [1.4.2](https://search.maven.org/artifact/org.apache.maven.resolver/maven-resolver/1.4.2/pom) | [mvn jdk8 w](maven-resolver-1.4.2.buildspec) | [23 :heavy_check_mark:  10 :warning:](maven-resolver-transport-wagon-1.4.2.buildcompare) |
-| [1.4.1](https://search.maven.org/artifact/org.apache.maven.resolver/maven-resolver/1.4.1/pom) | | |
-| [1.4.0](https://search.maven.org/artifact/org.apache.maven.resolver/maven-resolver/1.4.0/pom) | | |
-| [1.3.3](https://search.maven.org/artifact/org.apache.maven.resolver/maven-resolver/1.3.3/pom) | | |
-| [1.3.2](https://search.maven.org/artifact/org.apache.maven.resolver/maven-resolver/1.3.2/pom) | | |
-| [1.3.1](https://search.maven.org/artifact/org.apache.maven.resolver/maven-resolver/1.3.1/pom) | | |
-| [1.3.0](https://search.maven.org/artifact/org.apache.maven.resolver/maven-resolver/1.3.0/pom) | | |
-| [1.1.1](https://search.maven.org/artifact/org.apache.maven.resolver/maven-resolver/1.1.1/pom) | | |
-| [1.1.0](https://search.maven.org/artifact/org.apache.maven.resolver/maven-resolver/1.1.0/pom) | | |
-| [1.0.3](https://search.maven.org/artifact/org.apache.maven.resolver/maven-resolver/1.0.3/pom) | | |

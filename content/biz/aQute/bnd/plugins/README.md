@@ -18,18 +18,3 @@ rebuilding **5 releases** of biz.aQute.bnd:bnd-plugin-parent:
 | [6.0.0](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/6.0.0/pom) | [mvn jdk8](bnd-plugins-6.0.0.buildspec) | [25 :heavy_check_mark: ](bnd-reporter-maven-plugin-6.0.0.buildcompare) |
 | [5.3.0](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/5.3.0/pom) | [mvn jdk8](bnd-plugins-5.3.0.buildspec) | [17 :heavy_check_mark: ](bnd-reporter-maven-plugin-5.3.0.buildcompare) |
 | [5.2.0](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/5.2.0/pom) | [mvn jdk8](bnd-plugins-5.2.0.buildspec) | [17 :heavy_check_mark: ](bnd-reporter-maven-plugin-5.2.0.buildcompare) |
-| [5.1.2](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/5.1.2/pom) | | |
-| [5.1.1](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/5.1.1/pom) | | |
-| [5.1.0](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/5.1.0/pom) | | |
-| [5.0.1](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/5.0.1/pom) | | |
-| [5.0.0](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/5.0.0/pom) | | |
-| [4.3.1](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/4.3.1/pom) | | |
-| [4.3.0](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/4.3.0/pom) | | |
-| [4.2.0](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/4.2.0/pom) | | |
-| [4.1.0](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/4.1.0/pom) | | |
-| [4.0.0](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/4.0.0/pom) | | |
-| [3.5.0](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/3.5.0/pom) | | |
-| [3.4.0](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/3.4.0/pom) | | |
-| [3.3.0](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/3.3.0/pom) | | |
-| [3.2.0](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/3.2.0/pom) | | |
-| [3.1.0](https://search.maven.org/artifact/biz.aQute.bnd/bnd-plugin-parent/3.1.0/pom) | | |

@@ -18,6 +18,3 @@ rebuilding **5 releases** of org.apache.sling:org.apache.sling.commons.johnzon:
 | [1.2.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.commons.johnzon/1.2.4/pom) | [mvn jdk8](org.apache.sling.commons.johnzon-1.2.4.buildspec) | [3 :heavy_check_mark: ](org.apache.sling.commons.johnzon-1.2.4.buildcompare) |
 | [1.2.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.commons.johnzon/1.2.2/pom) | [mvn jdk8](org.apache.sling.commons.johnzon-1.2.2.buildspec) | [2 :heavy_check_mark:  1 :warning:](org.apache.sling.commons.johnzon-1.2.2.buildcompare) |
 | [1.2.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.commons.johnzon/1.2.0/pom) | [mvn jdk8](org.apache.sling.commons.johnzon-1.2.0.buildspec) | [2 :heavy_check_mark:  1 :warning:](org.apache.sling.commons.johnzon-1.2.0.buildcompare) |
-| [1.1.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.commons.johnzon/1.1.2/pom) | | |
-| [1.1.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.commons.johnzon/1.1.0/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.commons.johnzon/1.0.0/pom) | | |

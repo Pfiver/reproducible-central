@@ -15,10 +15,3 @@ rebuilding **2 releases** of org.simplify4u:slf4j-mock:
 | -- | --------- | ------ |
 | [2.1.1](https://search.maven.org/artifact/org.simplify4u/slf4j-mock/2.1.1/pom) | [mvn jdk8](slf4j-mock-2.1.1.buildspec) | [3 :heavy_check_mark: ](slf4j-mock-2.1.1.buildcompare) |
 | [2.1.0](https://search.maven.org/artifact/org.simplify4u/slf4j-mock/2.1.0/pom) | [mvn jdk8](slf4j-mock-2.1.0.buildspec) | [3 :heavy_check_mark: ](slf4j-mock-2.1.0.buildcompare) |
-| [2.0.0](https://search.maven.org/artifact/org.simplify4u/slf4j-mock/2.0.0/pom) | | |
-| [1.0.5](https://search.maven.org/artifact/org.simplify4u/slf4j-mock/1.0.5/pom) | | |
-| [1.0.4](https://search.maven.org/artifact/org.simplify4u/slf4j-mock/1.0.4/pom) | | |
-| [1.0.3](https://search.maven.org/artifact/org.simplify4u/slf4j-mock/1.0.3/pom) | | |
-| [1.0.2](https://search.maven.org/artifact/org.simplify4u/slf4j-mock/1.0.2/pom) | | |
-| [1.0.1](https://search.maven.org/artifact/org.simplify4u/slf4j-mock/1.0.1/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/org.simplify4u/slf4j-mock/1.0.0/pom) | | |

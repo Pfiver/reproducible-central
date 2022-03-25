@@ -20,33 +20,3 @@ rebuilding **6 releases** of org.codehaus.plexus:plexus:
 | [6.3](https://search.maven.org/artifact/org.codehaus.plexus/plexus/6.3/pom) | | |
 | [6.2](https://search.maven.org/artifact/org.codehaus.plexus/plexus/6.2/pom) | [mvn jdk7](plexus-pom-6.2.buildspec) | [2 :heavy_check_mark: ](plexus-6.2.buildcompare) |
 | [6.1](https://search.maven.org/artifact/org.codehaus.plexus/plexus/6.1/pom) | [mvn jdk7](plexus-pom-6.1.buildspec) | [2 :heavy_check_mark: ](plexus-6.1.buildcompare) |
-| [6.0](https://search.maven.org/artifact/org.codehaus.plexus/plexus/6.0/pom) | | |
-| [5.1](https://search.maven.org/artifact/org.codehaus.plexus/plexus/5.1/pom) | | |
-| [5.0](https://search.maven.org/artifact/org.codehaus.plexus/plexus/5.0/pom) | | |
-| [4.0](https://search.maven.org/artifact/org.codehaus.plexus/plexus/4.0/pom) | | |
-| [3.3.3](https://search.maven.org/artifact/org.codehaus.plexus/plexus/3.3.3/pom) | | |
-| [3.3.2](https://search.maven.org/artifact/org.codehaus.plexus/plexus/3.3.2/pom) | | |
-| [3.3.1](https://search.maven.org/artifact/org.codehaus.plexus/plexus/3.3.1/pom) | | |
-| [3.3](https://search.maven.org/artifact/org.codehaus.plexus/plexus/3.3/pom) | | |
-| [3.2](https://search.maven.org/artifact/org.codehaus.plexus/plexus/3.2/pom) | | |
-| [3.1](https://search.maven.org/artifact/org.codehaus.plexus/plexus/3.1/pom) | | |
-| [3.0.1](https://search.maven.org/artifact/org.codehaus.plexus/plexus/3.0.1/pom) | | |
-| [3.0](https://search.maven.org/artifact/org.codehaus.plexus/plexus/3.0/pom) | | |
-| [2.0.7](https://search.maven.org/artifact/org.codehaus.plexus/plexus/2.0.7/pom) | | |
-| [2.0.6](https://search.maven.org/artifact/org.codehaus.plexus/plexus/2.0.6/pom) | | |
-| [2.0.5](https://search.maven.org/artifact/org.codehaus.plexus/plexus/2.0.5/pom) | | |
-| [2.0.4](https://search.maven.org/artifact/org.codehaus.plexus/plexus/2.0.4/pom) | | |
-| [2.0.3](https://search.maven.org/artifact/org.codehaus.plexus/plexus/2.0.3/pom) | | |
-| [2.0.2](https://search.maven.org/artifact/org.codehaus.plexus/plexus/2.0.2/pom) | | |
-| [2.0.1](https://search.maven.org/artifact/org.codehaus.plexus/plexus/2.0.1/pom) | | |
-| [2.0.0](https://search.maven.org/artifact/org.codehaus.plexus/plexus/2.0.0/pom) | | |
-| [1.0.13](https://search.maven.org/artifact/org.codehaus.plexus/plexus/1.0.13/pom) | | |
-| [1.0.12](https://search.maven.org/artifact/org.codehaus.plexus/plexus/1.0.12/pom) | | |
-| [1.0.11](https://search.maven.org/artifact/org.codehaus.plexus/plexus/1.0.11/pom) | | |
-| [1.0.10](https://search.maven.org/artifact/org.codehaus.plexus/plexus/1.0.10/pom) | | |
-| [1.0.9](https://search.maven.org/artifact/org.codehaus.plexus/plexus/1.0.9/pom) | | |
-| [1.0.8](https://search.maven.org/artifact/org.codehaus.plexus/plexus/1.0.8/pom) | | |
-| [1.0.7](https://search.maven.org/artifact/org.codehaus.plexus/plexus/1.0.7/pom) | | |
-| [1.0.6](https://search.maven.org/artifact/org.codehaus.plexus/plexus/1.0.6/pom) | | |
-| [1.0.5](https://search.maven.org/artifact/org.codehaus.plexus/plexus/1.0.5/pom) | | |
-| [1.0.4](https://search.maven.org/artifact/org.codehaus.plexus/plexus/1.0.4/pom) | | |

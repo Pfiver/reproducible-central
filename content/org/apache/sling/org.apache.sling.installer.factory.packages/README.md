@@ -15,4 +15,3 @@ rebuilding **2 releases** of org.apache.sling:org.apache.sling.installer.factory
 | -- | --------- | ------ |
 | [1.0.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.installer.factory.packages/1.0.4/pom) | [mvn jdk11](org.apache.sling.installer.factory.packages-1.0.4.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.installer.factory.packages-1.0.4.buildcompare) |
 | [1.0.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.installer.factory.packages/1.0.2/pom) | [mvn jdk8](org.apache.sling.installer.factory.packages-1.0.2.buildspec) | [2 :heavy_check_mark:  1 :warning:](org.apache.sling.installer.factory.packages-1.0.2.buildcompare) |
-| [1.0.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.installer.factory.packages/1.0.0/pom) | | |

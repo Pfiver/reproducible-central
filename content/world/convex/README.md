@@ -21,4 +21,3 @@ rebuilding **4 releases** of world.convex:convex:
 | [0.7.0-rc4](https://search.maven.org/artifact/world.convex/convex/0.7.0-rc4/pom) | | |
 | [0.7.0-rc3](https://search.maven.org/artifact/world.convex/convex/0.7.0-rc3/pom) | | |
 | [0.7.0-rc2](https://search.maven.org/artifact/world.convex/convex/0.7.0-rc2/pom) | [mvn jdk16 w](convex-0.7.0-rc2.buildspec) | [6 :heavy_check_mark:  13 :warning:](convex-0.7.0-rc2.buildcompare) |
-| [0.7.0-rc1](https://search.maven.org/artifact/world.convex/convex/0.7.0-rc1/pom) | | |

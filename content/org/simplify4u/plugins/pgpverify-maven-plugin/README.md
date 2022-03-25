@@ -20,14 +20,3 @@ rebuilding **7 releases** of org.simplify4u.plugins:pgpverify-maven-plugin:
 | [1.13.0](https://search.maven.org/artifact/org.simplify4u.plugins/pgpverify-maven-plugin/1.13.0/pom) | [mvn jdk8](pgpverify-maven-plugin-1.13.0.buildspec) | [3 :heavy_check_mark: ](pgpverify-maven-plugin-1.13.0.buildcompare) |
 | [1.12.0](https://search.maven.org/artifact/org.simplify4u.plugins/pgpverify-maven-plugin/1.12.0/pom) | [mvn jdk8](pgpverify-maven-plugin-1.12.0.buildspec) | [3 :heavy_check_mark: ](pgpverify-maven-plugin-1.12.0.buildcompare) |
 | [1.11.0](https://search.maven.org/artifact/org.simplify4u.plugins/pgpverify-maven-plugin/1.11.0/pom) | [mvn jdk8](pgpverify-maven-plugin-1.11.0.buildspec) | [3 :heavy_check_mark: ](pgpverify-maven-plugin-1.11.0.buildcompare) |
-| [1.10.1](https://search.maven.org/artifact/org.simplify4u.plugins/pgpverify-maven-plugin/1.10.1/pom) | | |
-| [1.10.0](https://search.maven.org/artifact/org.simplify4u.plugins/pgpverify-maven-plugin/1.10.0/pom) | | |
-| [1.9.0](https://search.maven.org/artifact/org.simplify4u.plugins/pgpverify-maven-plugin/1.9.0/pom) | | |
-| [1.8.0](https://search.maven.org/artifact/org.simplify4u.plugins/pgpverify-maven-plugin/1.8.0/pom) | | |
-| [1.7.0](https://search.maven.org/artifact/org.simplify4u.plugins/pgpverify-maven-plugin/1.7.0/pom) | | |
-| [1.6.0](https://search.maven.org/artifact/org.simplify4u.plugins/pgpverify-maven-plugin/1.6.0/pom) | | |
-| [1.5.1](https://search.maven.org/artifact/org.simplify4u.plugins/pgpverify-maven-plugin/1.5.1/pom) | | |
-| [1.5.0](https://search.maven.org/artifact/org.simplify4u.plugins/pgpverify-maven-plugin/1.5.0/pom) | | |
-| [1.4.0](https://search.maven.org/artifact/org.simplify4u.plugins/pgpverify-maven-plugin/1.4.0/pom) | | |
-| [1.3.0](https://search.maven.org/artifact/org.simplify4u.plugins/pgpverify-maven-plugin/1.3.0/pom) | | |
-| [1.2.0](https://search.maven.org/artifact/org.simplify4u.plugins/pgpverify-maven-plugin/1.2.0/pom) | | |

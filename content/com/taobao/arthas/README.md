@@ -32,24 +32,3 @@ rebuilding **13 releases** of com.taobao.arthas:arthas-all:
 | [3.3.9](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.3.9/pom) | [mvn jdk8](arthas-3.3.9.buildspec) | [31 :heavy_check_mark:  21 :warning:](arthas-tunnel-server-3.3.9.buildcompare) |
 | [3.3.8](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.3.8/pom) | [mvn jdk8](arthas-3.3.8.buildspec) | [31 :heavy_check_mark:  21 :warning:](arthas-tunnel-server-3.3.8.buildcompare) |
 | [3.3.7](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.3.7/pom) | [mvn jdk8](arthas-3.3.7.buildspec) | [31 :heavy_check_mark:  21 :warning:](arthas-tunnel-server-3.3.7.buildcompare) |
-| [3.3.6](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.3.6/pom) | | |
-| [3.3.5](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.3.5/pom) | | |
-| [3.3.4](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.3.4/pom) | | |
-| [3.3.3](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.3.3/pom) | | |
-| [3.3.2](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.3.2/pom) | | |
-| [3.3.1](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.3.1/pom) | | |
-| [3.3.0](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.3.0/pom) | | |
-| [3.2.0](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.2.0/pom) | | |
-| [3.1.8](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.1.8/pom) | | |
-| [3.1.7](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.1.7/pom) | | |
-| [3.1.6](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.1.6/pom) | | |
-| [3.1.5](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.1.5/pom) | | |
-| [3.1.4](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.1.4/pom) | | |
-| [3.1.3](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.1.3/pom) | | |
-| [3.1.2](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.1.2/pom) | | |
-| [3.1.1](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.1.1/pom) | | |
-| [3.1.0](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.1.0/pom) | | |
-| [3.0.5](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.0.5/pom) | | |
-| [3.0.4](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.0.4/pom) | | |
-| [3.0.3](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.0.3/pom) | | |
-| [3.0.0-RC](https://search.maven.org/artifact/com.taobao.arthas/arthas-all/3.0.0-RC/pom) | | |

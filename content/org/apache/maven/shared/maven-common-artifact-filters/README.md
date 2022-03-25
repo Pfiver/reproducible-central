@@ -15,12 +15,3 @@ rebuilding **2 releases** of org.apache.maven.shared:maven-common-artifact-filte
 | -- | --------- | ------ |
 | [3.2.0](https://search.maven.org/artifact/org.apache.maven.shared/maven-common-artifact-filters/3.2.0/pom) | [mvn jdk11 w](maven-common-artifact-filters-3.2.0.buildspec) | [4 :heavy_check_mark: ](maven-common-artifact-filters-3.2.0.buildcompare) |
 | [3.1.1](https://search.maven.org/artifact/org.apache.maven.shared/maven-common-artifact-filters/3.1.1/pom) | [mvn jdk11 w](maven-common-artifact-filters-3.1.1.buildspec) | [4 :heavy_check_mark: ](maven-common-artifact-filters-3.1.1.buildcompare) |
-| [3.1.0](https://search.maven.org/artifact/org.apache.maven.shared/maven-common-artifact-filters/3.1.0/pom) | | |
-| [3.0.1](https://search.maven.org/artifact/org.apache.maven.shared/maven-common-artifact-filters/3.0.1/pom) | | |
-| [3.0.0](https://search.maven.org/artifact/org.apache.maven.shared/maven-common-artifact-filters/3.0.0/pom) | | |
-| [1.4](https://search.maven.org/artifact/org.apache.maven.shared/maven-common-artifact-filters/1.4/pom) | | |
-| [1.3](https://search.maven.org/artifact/org.apache.maven.shared/maven-common-artifact-filters/1.3/pom) | | |
-| [1.2](https://search.maven.org/artifact/org.apache.maven.shared/maven-common-artifact-filters/1.2/pom) | | |
-| [1.1](https://search.maven.org/artifact/org.apache.maven.shared/maven-common-artifact-filters/1.1/pom) | | |
-| [1.0](https://search.maven.org/artifact/org.apache.maven.shared/maven-common-artifact-filters/1.0/pom) | | |
-| [1.0-alpha-1](https://search.maven.org/artifact/org.apache.maven.shared/maven-common-artifact-filters/1.0-alpha-1/pom) | | |

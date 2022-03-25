@@ -22,14 +22,3 @@ rebuilding **9 releases** of org.eclipse.jkube:jkube:
 | [1.2.0](https://search.maven.org/artifact/org.eclipse.jkube/jkube/1.2.0/pom) | [mvn jdk8](jkube-1.2.0.buildspec) | [107 :heavy_check_mark: ](jkube-1.2.0.buildcompare) |
 | [1.1.1](https://search.maven.org/artifact/org.eclipse.jkube/jkube/1.1.1/pom) | [mvn jdk8](jkube-1.1.1.buildspec) | [107 :heavy_check_mark: ](jkube-1.1.1.buildcompare) |
 | [1.1.0](https://search.maven.org/artifact/org.eclipse.jkube/jkube/1.1.0/pom) | [mvn jdk8](jkube-1.1.0.buildspec) | [107 :heavy_check_mark: ](jkube-1.1.0.buildcompare) |
-| [1.0.2](https://search.maven.org/artifact/org.eclipse.jkube/jkube/1.0.2/pom) | | |
-| [1.0.1](https://search.maven.org/artifact/org.eclipse.jkube/jkube/1.0.1/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/org.eclipse.jkube/jkube/1.0.0/pom) | | |
-| [1.0.0-rc-1](https://search.maven.org/artifact/org.eclipse.jkube/jkube/1.0.0-rc-1/pom) | | |
-| [1.0.0-alpha-4](https://search.maven.org/artifact/org.eclipse.jkube/jkube/1.0.0-alpha-4/pom) | | |
-| [1.0.0-alpha-3](https://search.maven.org/artifact/org.eclipse.jkube/jkube/1.0.0-alpha-3/pom) | | |
-| [1.0.0-alpha-2](https://search.maven.org/artifact/org.eclipse.jkube/jkube/1.0.0-alpha-2/pom) | | |
-| [1.0.0-alpha-1](https://search.maven.org/artifact/org.eclipse.jkube/jkube/1.0.0-alpha-1/pom) | | |
-| [0.2.0](https://search.maven.org/artifact/org.eclipse.jkube/jkube/0.2.0/pom) | | |
-| [0.1.1](https://search.maven.org/artifact/org.eclipse.jkube/jkube/0.1.1/pom) | | |
-| [0.1.0](https://search.maven.org/artifact/org.eclipse.jkube/jkube/0.1.0/pom) | | |

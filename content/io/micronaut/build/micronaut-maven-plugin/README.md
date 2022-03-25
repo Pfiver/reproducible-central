@@ -33,11 +33,3 @@ rebuilding **19 releases** of io.micronaut.build:micronaut-maven-plugin:
 | [1.1.0.M1](https://search.maven.org/artifact/io.micronaut.build/micronaut-maven-plugin/1.1.0.M1/pom) | [mvn jdk8](micronaut-maven-plugin-1.1.0.M1.buildspec) | [3 :heavy_check_mark: ](micronaut-maven-plugin-1.1.0.M1.buildcompare) |
 | [1.0.0](https://search.maven.org/artifact/io.micronaut.build/micronaut-maven-plugin/1.0.0/pom) | [mvn jdk8](micronaut-maven-plugin-1.0.0.buildspec) | [3 :heavy_check_mark: ](micronaut-maven-plugin-1.0.0.buildcompare) |
 | [1.0.0.RC4](https://search.maven.org/artifact/io.micronaut.build/micronaut-maven-plugin/1.0.0.RC4/pom) | [mvn jdk8](micronaut-maven-plugin-1.0.0.RC4.buildspec) | [3 :heavy_check_mark: ](micronaut-maven-plugin-1.0.0.RC4.buildcompare) |
-| [1.0.0.RC3](https://search.maven.org/artifact/io.micronaut.build/micronaut-maven-plugin/1.0.0.RC3/pom) | | |
-| [1.0.0.RC2](https://search.maven.org/artifact/io.micronaut.build/micronaut-maven-plugin/1.0.0.RC2/pom) | | |
-| [1.0.0.RC1](https://search.maven.org/artifact/io.micronaut.build/micronaut-maven-plugin/1.0.0.RC1/pom) | | |
-| [1.0.0.M6](https://search.maven.org/artifact/io.micronaut.build/micronaut-maven-plugin/1.0.0.M6/pom) | | |
-| [1.0.0.M4](https://search.maven.org/artifact/io.micronaut.build/micronaut-maven-plugin/1.0.0.M4/pom) | | |
-| [1.0.0.M3](https://search.maven.org/artifact/io.micronaut.build/micronaut-maven-plugin/1.0.0.M3/pom) | | |
-| [1.0.0.M2](https://search.maven.org/artifact/io.micronaut.build/micronaut-maven-plugin/1.0.0.M2/pom) | | |
-| [1.0.0.M1](https://search.maven.org/artifact/io.micronaut.build/micronaut-maven-plugin/1.0.0.M1/pom) | | |

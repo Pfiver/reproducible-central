@@ -17,16 +17,3 @@ rebuilding **3 releases** of io.wcm.tooling.commons:io.wcm.tooling.commons.conte
 | [1.6.2](https://search.maven.org/artifact/io.wcm/io.wcm.parent_toplevel/1.6.2/pom) | [mvn jdk8](wcm-parent_toplevel-1.6.2.buildspec) | [2 :heavy_check_mark: ](io.wcm.parent_toplevel-1.6.2.buildcompare) |
 | [1.6.0](https://search.maven.org/artifact/io.wcm/io.wcm.parent_toplevel/1.6.0/pom) | [mvn jdk8](wcm-parent_toplevel-1.6.0.buildspec) | [2 :heavy_check_mark: ](io.wcm.parent_toplevel-1.6.0.buildcompare) |
 | [1.5.4](https://search.maven.org/artifact/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder/1.5.4/pom) | [mvn jdk8 w](wcm-content-package-builder-1.5.4.buildspec) | [3 :heavy_check_mark: ](io.wcm.tooling.commons.content-package-builder-1.5.4.buildcompare) |
-| [1.5.2](https://search.maven.org/artifact/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder/1.5.2/pom) | | |
-| [1.5.0](https://search.maven.org/artifact/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder/1.5.0/pom) | | |
-| [1.4.4](https://search.maven.org/artifact/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder/1.4.4/pom) | | |
-| [1.4.2](https://search.maven.org/artifact/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder/1.4.2/pom) | | |
-| [1.4.0](https://search.maven.org/artifact/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder/1.4.0/pom) | | |
-| [1.3.2](https://search.maven.org/artifact/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder/1.3.2/pom) | | |
-| [1.3.0](https://search.maven.org/artifact/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder/1.3.0/pom) | | |
-| [1.2.0](https://search.maven.org/artifact/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder/1.2.0/pom) | | |
-| [1.1.4](https://search.maven.org/artifact/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder/1.1.4/pom) | | |
-| [1.1.2](https://search.maven.org/artifact/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder/1.1.2/pom) | | |
-| [1.1.0](https://search.maven.org/artifact/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder/1.1.0/pom) | | |
-| [1.0.2](https://search.maven.org/artifact/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder/1.0.2/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder/1.0.0/pom) | | |

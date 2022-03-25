@@ -14,11 +14,3 @@ rebuilding **1 releases** of org.apache.sling:org.apache.sling.bundleresource.im
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [2.3.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.bundleresource.impl/2.3.4/pom) | [mvn jdk11](org.apache.sling.bundleresource.impl-2.3.4.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.bundleresource.impl-2.3.4.buildcompare) |
-| [2.3.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.bundleresource.impl/2.3.2/pom) | | |
-| [2.3.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.bundleresource.impl/2.3.0/pom) | | |
-| [2.2.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.bundleresource.impl/2.2.0/pom) | | |
-| [2.1.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.bundleresource.impl/2.1.2/pom) | | |
-| [2.1.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.bundleresource.impl/2.1.0/pom) | | |
-| [2.0.6](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.bundleresource.impl/2.0.6/pom) | | |
-| [2.0.4-incubator](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.bundleresource.impl/2.0.4-incubator/pom) | | |
-| [2.0.2-incubator](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.bundleresource.impl/2.0.2-incubator/pom) | | |

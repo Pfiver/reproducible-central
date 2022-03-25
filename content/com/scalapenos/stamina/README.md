@@ -15,7 +15,3 @@ rebuilding **2 releases** of com.scalapenos:stamina_2.11:
 | -- | --------- | ------ |
 | [0.1.6](https://search.maven.org/artifact/com.scalapenos/stamina_2.11/0.1.6/pom) | [sbt jdk8](stamina-0.1.6.buildspec) | [24 :heavy_check_mark: ](stamina-0.1.6.buildcompare) |
 | [0.1.5](https://search.maven.org/artifact/com.scalapenos/stamina_2.11/0.1.5/pom) | [sbt jdk8](stamina-0.1.5.buildspec) | [24 :heavy_check_mark: ](stamina-0.1.5.buildcompare) |
-| [0.1.4](https://search.maven.org/artifact/com.scalapenos/stamina_2.11/0.1.4/pom) | | |
-| [0.1.3](https://search.maven.org/artifact/com.scalapenos/stamina_2.11/0.1.3/pom) | | |
-| [0.1.2](https://search.maven.org/artifact/com.scalapenos/stamina_2.11/0.1.2/pom) | | |
-| [0.1.1](https://search.maven.org/artifact/com.scalapenos/stamina_2.11/0.1.1/pom) | | |

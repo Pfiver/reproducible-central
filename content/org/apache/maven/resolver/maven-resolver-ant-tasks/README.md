@@ -17,4 +17,3 @@ rebuilding **4 releases** of org.apache.maven.resolver:maven-resolver-ant-tasks:
 | [1.3.1](https://search.maven.org/artifact/org.apache.maven.resolver/maven-resolver-ant-tasks/1.3.1/pom) | [mvn jdk8 w](maven-resolver-ant-tasks-1.3.1.buildspec) | [5 :heavy_check_mark: ](maven-resolver-ant-tasks-1.3.1.buildcompare) |
 | [1.3.0](https://search.maven.org/artifact/org.apache.maven.resolver/maven-resolver-ant-tasks/1.3.0/pom) | [mvn jdk8 w](maven-resolver-ant-tasks-1.3.0.buildspec) | [5 :heavy_check_mark: ](maven-resolver-ant-tasks-1.3.0.buildcompare) |
 | [1.2.1](https://search.maven.org/artifact/org.apache.maven.resolver/maven-resolver-ant-tasks/1.2.1/pom) | [mvn jdk8 w](maven-resolver-ant-tasks-1.2.1.buildspec) | [5 :heavy_check_mark: ](maven-resolver-ant-tasks-1.2.1.buildcompare) |
-| [1.2.0](https://search.maven.org/artifact/org.apache.maven.resolver/maven-resolver-ant-tasks/1.2.0/pom) | | |

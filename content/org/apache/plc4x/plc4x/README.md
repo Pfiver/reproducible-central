@@ -17,10 +17,3 @@ rebuilding **1 releases** of org.apache.plc4x:plc4x-parent:
 | [0.9.0](https://search.maven.org/artifact/org.apache.plc4x.plugins/plc4x-code-generaton/0.9.0/pom) | | |
 | [0.8.0](https://search.maven.org/artifact/org.apache.plc4x.plugins/plc4x-code-generaton/0.8.0/pom) | | |
 | [0.7.0](https://search.maven.org/artifact/org.apache.plc4x/plc4x-parent/0.7.0/pom) | [mvn jdk11](plc4x-0.7.0.buildspec) | [16 :heavy_check_mark:  51 :warning:](plc4x-tools-0.7.0.buildcompare) |
-| [0.6.0](https://search.maven.org/artifact/org.apache.plc4x/plc4x-parent/0.6.0/pom) | | |
-| [0.5.0](https://search.maven.org/artifact/org.apache.plc4x/plc4x-parent/0.5.0/pom) | | |
-| [0.4.0](https://search.maven.org/artifact/org.apache.plc4x/plc4x-parent/0.4.0/pom) | | |
-| [0.3.1](https://search.maven.org/artifact/org.apache.plc4x/plc4x-parent/0.3.1/pom) | | |
-| [0.3.0](https://search.maven.org/artifact/org.apache.plc4x/plc4x-parent/0.3.0/pom) | | |
-| [0.2.0](https://search.maven.org/artifact/org.apache.plc4x/plc4x-parent/0.2.0/pom) | | |
-| [0.1.0](https://search.maven.org/artifact/org.apache.plc4x/plc4x-parent/0.1.0/pom) | | |

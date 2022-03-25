@@ -14,7 +14,3 @@ rebuilding **1 releases** of org.apache.sling:org.apache.sling.scripting.sightly
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [1.0.10](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.scripting.sightly.repl/1.0.10/pom) | [mvn jdk11](org.apache.sling.scripting.sightly.repl-1.0.10.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.scripting.sightly.repl-1.0.10.buildcompare) |
-| [1.0.6](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.scripting.sightly.repl/1.0.6/pom) | | |
-| [1.0.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.scripting.sightly.repl/1.0.4/pom) | | |
-| [1.0.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.scripting.sightly.repl/1.0.2/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.scripting.sightly.repl/1.0.0/pom) | | |

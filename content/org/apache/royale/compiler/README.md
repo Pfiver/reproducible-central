@@ -15,8 +15,3 @@ rebuilding **1 releases** of org.apache.royale.compiler:compiler:
 | -- | --------- | ------ |
 | [0.9.8](https://search.maven.org/artifact/org.apache.plc4x/plc4x-parent/0.9.8/pom) | | |
 | [0.9.7](https://search.maven.org/artifact/org.apache.royale.compiler/compiler/0.9.7/pom) | [mvn jdk8 w](royale-compiler-0.9.7.buildspec) | [20 :heavy_check_mark:  5 :warning:](royale-maven-plugin-0.9.7.buildcompare) |
-| [0.9.6](https://search.maven.org/artifact/org.apache.royale.compiler/compiler/0.9.6/pom) | | |
-| [0.9.4](https://search.maven.org/artifact/org.apache.royale.compiler/compiler/0.9.4/pom) | | |
-| [0.9.2](https://search.maven.org/artifact/org.apache.royale.compiler/compiler/0.9.2/pom) | | |
-| [0.9.1](https://search.maven.org/artifact/org.apache.royale.compiler/compiler/0.9.1/pom) | | |
-| [0.9.0](https://search.maven.org/artifact/org.apache.royale.compiler/compiler/0.9.0/pom) | | |

@@ -14,9 +14,3 @@ rebuilding **1 releases** of org.codehaus.mojo:taglist-maven-plugin:
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [3.0.0](https://search.maven.org/artifact/org.codehaus.mojo/taglist-maven-plugin/3.0.0/pom) | [mvn jdk8](taglist-maven-plugin-3.0.0.buildspec) | [4 :heavy_check_mark: ](taglist-maven-plugin-3.0.0.buildcompare) |
-| [2.4](https://search.maven.org/artifact/org.codehaus.mojo/taglist-maven-plugin/2.4/pom) | | |
-| [2.3](https://search.maven.org/artifact/org.codehaus.mojo/taglist-maven-plugin/2.3/pom) | | |
-| [2.2](https://search.maven.org/artifact/org.codehaus.mojo/taglist-maven-plugin/2.2/pom) | | |
-| [2.1](https://search.maven.org/artifact/org.codehaus.mojo/taglist-maven-plugin/2.1/pom) | | |
-| [2.0](https://search.maven.org/artifact/org.codehaus.mojo/taglist-maven-plugin/2.0/pom) | | |
-| [2.0-beta-1](https://search.maven.org/artifact/org.codehaus.mojo/taglist-maven-plugin/2.0-beta-1/pom) | | |

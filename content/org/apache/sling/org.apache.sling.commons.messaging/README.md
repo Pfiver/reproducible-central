@@ -14,4 +14,3 @@ rebuilding **1 releases** of org.apache.sling:org.apache.sling.commons.messaging
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [1.0.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.commons.messaging/1.0.2/pom) | [mvn jdk11](org.apache.sling.commons.messaging-1.0.2.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.commons.messaging-1.0.2.buildcompare) |
-| [1.0.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.commons.messaging/1.0.0/pom) | | |

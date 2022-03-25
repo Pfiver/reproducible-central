@@ -14,13 +14,3 @@ rebuilding **1 releases** of org.apache.sling:org.apache.sling.distribution.jour
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [0.1.24](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.distribution.journal/0.1.24/pom) | [mvn jdk14](org.apache.sling.distribution.journal-0.1.24.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.distribution.journal-0.1.24.buildcompare) |
-| [0.1.22](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.distribution.journal/0.1.22/pom) | | |
-| [0.1.20](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.distribution.journal/0.1.20/pom) | | |
-| [0.1.18](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.distribution.journal/0.1.18/pom) | | |
-| [0.1.16](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.distribution.journal/0.1.16/pom) | | |
-| [0.1.10](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.distribution.journal/0.1.10/pom) | | |
-| [0.1.8](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.distribution.journal/0.1.8/pom) | | |
-| [0.1.6](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.distribution.journal/0.1.6/pom) | | |
-| [0.1.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.distribution.journal/0.1.4/pom) | | |
-| [0.1.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.distribution.journal/0.1.2/pom) | | |
-| [0.1.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.distribution.journal/0.1.0/pom) | | |

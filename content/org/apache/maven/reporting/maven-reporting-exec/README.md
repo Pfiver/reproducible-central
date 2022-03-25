@@ -15,10 +15,3 @@ rebuilding **2 releases** of org.apache.maven.reporting:maven-reporting-exec:
 | -- | --------- | ------ |
 | [1.6.0](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-exec/1.6.0/pom) | [mvn jdk8 w](maven-reporting-exec-1.6.0.buildspec) | [4 :heavy_check_mark: ](maven-reporting-exec-1.6.0.buildcompare) |
 | [1.5.1](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-exec/1.5.1/pom) | [mvn jdk7](maven-reporting-exec-1.5.1.buildspec) | [4 :heavy_check_mark: ](maven-reporting-exec-1.5.1.buildcompare) |
-| [1.4](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-exec/1.4/pom) | | |
-| [1.3](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-exec/1.3/pom) | | |
-| [1.2](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-exec/1.2/pom) | | |
-| [1.1](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-exec/1.1/pom) | | |
-| [1.0.2](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-exec/1.0.2/pom) | | |
-| [1.0.1](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-exec/1.0.1/pom) | | |
-| [1.0](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-exec/1.0/pom) | | |

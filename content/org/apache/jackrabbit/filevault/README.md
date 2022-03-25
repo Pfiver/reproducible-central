@@ -20,27 +20,3 @@ rebuilding **7 releases** of org.apache.jackrabbit.vault:jackrabbit-filevault:
 | [3.5.0](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.5.0/pom) | [mvn jdk11](jackrabbit-filevault-3.5.0.buildspec) | [33 :heavy_check_mark:  7 :warning:](jackrabbit-filevault-3.5.0.buildcompare) |
 | [3.4.10](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.4.10/pom) | [mvn jdk11](jackrabbit-filevault-3.4.10.buildspec) | [33 :heavy_check_mark:  9 :warning:](jackrabbit-filevault-3.4.10.buildcompare) |
 | [3.4.8](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.4.8/pom) | [mvn jdk11](jackrabbit-filevault-3.4.8.buildspec) | [34 :heavy_check_mark:  8 :warning:](jackrabbit-filevault-3.4.8.buildcompare) |
-| [3.4.6](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.4.6/pom) | | |
-| [3.4.4](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.4.4/pom) | | |
-| [3.4.2](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.4.2/pom) | | |
-| [3.4.0](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.4.0/pom) | | |
-| [3.2.8](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.2.8/pom) | | |
-| [3.2.6](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.2.6/pom) | | |
-| [3.2.4](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.2.4/pom) | | |
-| [3.2.0](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.2.0/pom) | | |
-| [3.1.44](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.1.44/pom) | | |
-| [3.1.42](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.1.42/pom) | | |
-| [3.1.40](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.1.40/pom) | | |
-| [3.1.38](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.1.38/pom) | | |
-| [3.1.30](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.1.30/pom) | | |
-| [3.1.28](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.1.28/pom) | | |
-| [3.1.26](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.1.26/pom) | | |
-| [3.1.24](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.1.24/pom) | | |
-| [3.1.18](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.1.18/pom) | | |
-| [3.1.16](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.1.16/pom) | | |
-| [3.1.14](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.1.14/pom) | | |
-| [3.1.8](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.1.8/pom) | | |
-| [3.1.6](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.1.6/pom) | | |
-| [3.1.2](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.1.2/pom) | | |
-| [3.1.0](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.1.0/pom) | | |
-| [3.0.0](https://search.maven.org/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.0.0/pom) | | |

@@ -25,7 +25,3 @@ rebuilding **12 releases** of org.simplify4u:pgp-keys-map:
 | [2021.05.15](https://search.maven.org/artifact/org.simplify4u/pgp-keys-map/2021.05.15/pom) | [mvn jdk8](pgp-keys-map-2021.05.15.buildspec) | [2 :heavy_check_mark: ](pgp-keys-map-2021.05.15.buildcompare) |
 | [2021.04.06](https://search.maven.org/artifact/org.simplify4u/pgp-keys-map/2021.04.06/pom) | [mvn jdk8](pgp-keys-map-2021.04.06.buildspec) | [2 :heavy_check_mark: ](pgp-keys-map-2021.04.06.buildcompare) |
 | [2021.03.02](https://search.maven.org/artifact/org.simplify4u/pgp-keys-map/2021.03.02/pom) | [mvn jdk8](pgp-keys-map-2021.03.02.buildspec) | [2 :heavy_check_mark: ](pgp-keys-map-2021.03.02.buildcompare) |
-| [2020.12.28](https://search.maven.org/artifact/org.simplify4u/pgp-keys-map/2020.12.28/pom) | | |
-| [2020.11.17](https://search.maven.org/artifact/org.simplify4u/pgp-keys-map/2020.11.17/pom) | | |
-| [2020.11](https://search.maven.org/artifact/org.simplify4u/pgp-keys-map/2020.11/pom) | | |
-| [2020.08](https://search.maven.org/artifact/org.simplify4u/pgp-keys-map/2020.08/pom) | | |

@@ -14,11 +14,3 @@ rebuilding **1 releases** of org.apache.felix:felix-parent:
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [7](https://search.maven.org/artifact/org.apache.felix/felix-parent/7/pom) | [mvn jdk8](felix-parent-7.buildspec) | [3 :heavy_check_mark: ](felix-parent-7.buildcompare) |
-| [6](https://search.maven.org/artifact/org.apache.felix/felix-parent/6/pom) | | |
-| [5](https://search.maven.org/artifact/org.apache.felix/felix-parent/5/pom) | | |
-| [4](https://search.maven.org/artifact/org.apache.felix/felix-parent/4/pom) | | |
-| [3](https://search.maven.org/artifact/org.apache.felix/felix-parent/3/pom) | | |
-| [2.1](https://search.maven.org/artifact/org.apache.felix/felix-parent/2.1/pom) | | |
-| [2](https://search.maven.org/artifact/org.apache.felix/felix-parent/2/pom) | | |
-| [1.2.1](https://search.maven.org/artifact/org.apache.felix/felix-parent/1.2.1/pom) | | |
-| [1.2.0](https://search.maven.org/artifact/org.apache.felix/felix-parent/1.2.0/pom) | | |

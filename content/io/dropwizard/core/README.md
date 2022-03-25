@@ -39,19 +39,3 @@ rebuilding **26 releases** of io.dropwizard:dropwizard-project:
 | [2.0.12](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.12/pom) | [mvn jdk8](dropwizard-2.0.12.buildspec) | [87 :heavy_check_mark:  1 :warning:](dropwizard-project-2.0.12.buildcompare) |
 | [2.0.11](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.11/pom) | [mvn jdk8](dropwizard-2.0.11.buildspec) | [87 :heavy_check_mark:  1 :warning:](dropwizard-project-2.0.11.buildcompare) |
 | [2.0.10](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.10/pom) | [mvn jdk8](dropwizard-2.0.10.buildspec) | [87 :heavy_check_mark:  1 :warning:](dropwizard-project-2.0.10.buildcompare) |
-| [2.0.9](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.9/pom) | | |
-| [2.0.8](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.8/pom) | | |
-| [2.0.7](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.7/pom) | | |
-| [2.0.6](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.6/pom) | | |
-| [2.0.5](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.5/pom) | | |
-| [2.0.4](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.4/pom) | | |
-| [2.0.3](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.3/pom) | | |
-| [2.0.2](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.2/pom) | | |
-| [2.0.1](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.1/pom) | | |
-| [2.0.0](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.0/pom) | | |
-| [2.0.0-rc14](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.0-rc14/pom) | | |
-| [2.0.0-rc13](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.0-rc13/pom) | | |
-| [2.0.0-rc12](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.0-rc12/pom) | | |
-| [2.0.0-rc11](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.0-rc11/pom) | | |
-| [2.0.0-rc10](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.0-rc10/pom) | | |
-| [2.0.0-rc9](https://search.maven.org/artifact/io.dropwizard/dropwizard-project/2.0.0-rc9/pom) | | |

@@ -20,34 +20,3 @@ rebuilding **3 releases** of org.apache.accumulo:accumulo:
 | [1.10.2](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.10.2/pom) | [mvn jdk11](accumulo-1.10.2.buildspec) | [57 :heavy_check_mark:  3 :warning:](accumulo-project-1.10.2.buildcompare) |
 | [1.10.1](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.10.1/pom) | [mvn jdk11](accumulo-1.10.1.buildspec) | [36 :heavy_check_mark:  3 :warning:](accumulo-maven-plugin-1.10.1.buildcompare) |
 | [1.10.0](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.10.0/pom) | [mvn jdk11](accumulo-1.10.0.buildspec) | [36 :heavy_check_mark:  3 :warning:](accumulo-maven-plugin-1.10.0.buildcompare) |
-| [1.9.3](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.9.3/pom) | | |
-| [1.9.2](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.9.2/pom) | | |
-| [1.9.1](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.9.1/pom) | | |
-| [1.9.0](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.9.0/pom) | | |
-| [1.8.1](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.8.1/pom) | | |
-| [1.8.0](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.8.0/pom) | | |
-| [1.7.4](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.7.4/pom) | | |
-| [1.7.3](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.7.3/pom) | | |
-| [1.7.2](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.7.2/pom) | | |
-| [1.7.1](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.7.1/pom) | | |
-| [1.7.0](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.7.0/pom) | | |
-| [1.6.6](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.6.6/pom) | | |
-| [1.6.5](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.6.5/pom) | | |
-| [1.6.4](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.6.4/pom) | | |
-| [1.6.3](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.6.3/pom) | | |
-| [1.6.2](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.6.2/pom) | | |
-| [1.6.1](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.6.1/pom) | | |
-| [1.6.0](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.6.0/pom) | | |
-| [1.5.4](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.5.4/pom) | | |
-| [1.5.3](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.5.3/pom) | | |
-| [1.5.2](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.5.2/pom) | | |
-| [1.5.1](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.5.1/pom) | | |
-| [1.5.0](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.5.0/pom) | | |
-| [1.4.5](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.4.5/pom) | | |
-| [1.4.4](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.4.4/pom) | | |
-| [1.4.3](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.4.3/pom) | | |
-| [1.4.2](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.4.2/pom) | | |
-| [1.4.1](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.4.1/pom) | | |
-| [1.4.0](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.4.0/pom) | | |
-| [1.3.6](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.3.6/pom) | | |
-| [1.3.5-incubating](https://search.maven.org/artifact/org.apache.accumulo/accumulo/1.3.5-incubating/pom) | | |

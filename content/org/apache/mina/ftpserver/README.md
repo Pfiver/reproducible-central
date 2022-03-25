@@ -16,18 +16,3 @@ rebuilding **1 releases** of org.apache.ftpserver:ftpserver-parent:
 | [1.2.0](https://search.maven.org/artifact/org.apache.maven.wrapper/maven-wrapper-parent/1.2.0/pom) | | |
 | [1.1.4](https://search.maven.org/artifact/org.apache.maven.wrapper/maven-wrapper-parent/1.1.4/pom) | | |
 | [1.1.3](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.1.3/pom) | [mvn jdk8](mina-ftpserver-1.1.3.buildspec) | [18 :heavy_check_mark:  7 :warning:](ftpserver-parent-1.1.3.buildcompare) |
-| [1.1.2](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.1.2/pom) | | |
-| [1.1.1](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.1.1/pom) | | |
-| [1.1.0](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.1.0/pom) | | |
-| [1.0.6](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.0.6/pom) | | |
-| [1.0.5](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.0.5/pom) | | |
-| [1.0.4](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.0.4/pom) | | |
-| [1.0.3](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.0.3/pom) | | |
-| [1.0.2](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.0.2/pom) | | |
-| [1.0.1](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.0.1/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.0.0/pom) | | |
-| [1.0.0-RC2](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.0.0-RC2/pom) | | |
-| [1.0.0-RC1](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.0.0-RC1/pom) | | |
-| [1.0.0-M4](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.0.0-M4/pom) | | |
-| [1.0.0-M3](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.0.0-M3/pom) | | |
-| [1.0.0-M2](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.0.0-M2/pom) | | |

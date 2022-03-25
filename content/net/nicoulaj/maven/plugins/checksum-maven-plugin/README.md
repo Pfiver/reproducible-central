@@ -14,9 +14,3 @@ rebuilding **1 releases** of net.nicoulaj.maven.plugins:checksum-maven-plugin:
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [1.11](https://search.maven.org/artifact/net.nicoulaj.maven.plugins/checksum-maven-plugin/1.11/pom) | [mvn jdk16](checksum-maven-plugin-1.11.buildspec) | [2 :heavy_check_mark: ](checksum-maven-plugin-1.11.buildcompare) |
-| [1.10](https://search.maven.org/artifact/net.nicoulaj.maven.plugins/checksum-maven-plugin/1.10/pom) | | |
-| [1.9](https://search.maven.org/artifact/net.nicoulaj.maven.plugins/checksum-maven-plugin/1.9/pom) | | |
-| [1.8](https://search.maven.org/artifact/net.nicoulaj.maven.plugins/checksum-maven-plugin/1.8/pom) | | |
-| [1.7](https://search.maven.org/artifact/net.nicoulaj.maven.plugins/checksum-maven-plugin/1.7/pom) | | |
-| [1.6](https://search.maven.org/artifact/net.nicoulaj.maven.plugins/checksum-maven-plugin/1.6/pom) | | |
-| [1.5](https://search.maven.org/artifact/net.nicoulaj.maven.plugins/checksum-maven-plugin/1.5/pom) | | |

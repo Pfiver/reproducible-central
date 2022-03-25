@@ -27,25 +27,3 @@ rebuilding **7 releases** of io.wcm:io.wcm.handler.richtext:
 wcm-richtext-1.5.2.buildspec) | :x: |
 | [1.5.0](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/1.5.0/pom) | [mvn jdk11 w](wcm-richtext-1.5.0.buildspec) | [1 :heavy_check_mark:  2 :warning:](io.wcm.handler.richtext-1.5.0.buildcompare) |
 | [1.4.0](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/1.4.0/pom) | [mvn jdk8 w](wcm-richtext-1.4.0.buildspec) | [1 :heavy_check_mark:  2 :warning:](io.wcm.handler.richtext-1.4.0.buildcompare) |
-| [1.3.2](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/1.3.2/pom) | | |
-| [1.3.0](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/1.3.0/pom) | | |
-| [1.2.6](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/1.2.6/pom) | | |
-| [1.2.4](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/1.2.4/pom) | | |
-| [1.2.2](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/1.2.2/pom) | | |
-| [1.2.0](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/1.2.0/pom) | | |
-| [1.1.0](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/1.1.0/pom) | | |
-| [1.0.12](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/1.0.12/pom) | | |
-| [1.0.10](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/1.0.10/pom) | | |
-| [1.0.8](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/1.0.8/pom) | | |
-| [1.0.6](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/1.0.6/pom) | | |
-| [1.0.4](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/1.0.4/pom) | | |
-| [1.0.2](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/1.0.2/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/1.0.0/pom) | | |
-| [0.8.4](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/0.8.4/pom) | | |
-| [0.8.2](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/0.8.2/pom) | | |
-| [0.8.0](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/0.8.0/pom) | | |
-| [0.7.0](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/0.7.0/pom) | | |
-| [0.6.0](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/0.6.0/pom) | | |
-| [0.5.2](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/0.5.2/pom) | | |
-| [0.5.0](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/0.5.0/pom) | | |
-| [0.1.0](https://search.maven.org/artifact/io.wcm/io.wcm.handler.richtext/0.1.0/pom) | | |

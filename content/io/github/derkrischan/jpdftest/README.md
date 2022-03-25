@@ -16,7 +16,3 @@ rebuilding **3 releases** of io.github.derkrischan:jpdftest:
 | [0.10.0](https://search.maven.org/artifact/io.github.derkrischan/jpdftest/0.10.0/pom) | [mvn jdk7](jpdftest-0.10.0.buildspec) | [3 :heavy_check_mark: ](jpdftest-0.10.0.buildcompare) |
 | [0.9.0](https://search.maven.org/artifact/io.github.derkrischan/jpdftest/0.9.0/pom) | [mvn jdk7](jpdftest-0.9.0.buildspec) | [3 :heavy_check_mark: ](jpdftest-0.9.0.buildcompare) |
 | [0.8.0](https://search.maven.org/artifact/io.github.derkrischan/jpdftest/0.8.0/pom) | [mvn jdk7](jpdftest-0.8.0.buildspec) | [3 :heavy_check_mark: ](jpdftest-0.8.0.buildcompare) |
-| [0.6.0](https://search.maven.org/artifact/io.github.derkrischan/jpdftest/0.6.0/pom) | | |
-| [0.5.0](https://search.maven.org/artifact/io.github.derkrischan/jpdftest/0.5.0/pom) | | |
-| [0.3.0](https://search.maven.org/artifact/io.github.derkrischan/jpdftest/0.3.0/pom) | | |
-| [0.1.0](https://search.maven.org/artifact/io.github.derkrischan/jpdftest/0.1.0/pom) | | |

@@ -14,20 +14,3 @@ rebuilding **1 releases** of org.apache.maven.reporting:maven-reporting-impl:
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [3.1.0](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/3.1.0/pom) | [mvn jdk8 w](maven-reporting-impl-3.1.0.buildspec) | [4 :heavy_check_mark: ](maven-reporting-impl-3.1.0.buildcompare) |
-| [3.0.0](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/3.0.0/pom) | | |
-| [2.4](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/2.4/pom) | | |
-| [2.3](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/2.3/pom) | | |
-| [2.2](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/2.2/pom) | | |
-| [2.1](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/2.1/pom) | | |
-| [2.0.5](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/2.0.5/pom) | | |
-| [2.0.4.3](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/2.0.4.3/pom) | | |
-| [2.0.4.2](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/2.0.4.2/pom) | | |
-| [2.0.4.1](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/2.0.4.1/pom) | | |
-| [2.0.4](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/2.0.4/pom) | | |
-| [2.0.3](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/2.0.3/pom) | | |
-| [2.0.2](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/2.0.2/pom) | | |
-| [2.0.1](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/2.0.1/pom) | | |
-| [2.0](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/2.0/pom) | | |
-| [2.0-beta-3](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/2.0-beta-3/pom) | | |
-| [2.0-beta-2](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/2.0-beta-2/pom) | | |
-| [2.0-beta-1](https://search.maven.org/artifact/org.apache.maven.reporting/maven-reporting-impl/2.0-beta-1/pom) | | |

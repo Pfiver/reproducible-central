@@ -14,7 +14,3 @@ rebuilding **1 releases** of org.codehaus.plexus:plexus-interactivity:
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [1.1](https://search.maven.org/artifact/org.codehaus.plexus/plexus-interactivity/1.1/pom) | [mvn jdk7 w](plexus-interactivity-1.1.buildspec) | [9 :heavy_check_mark: ](plexus-interactivity-1.1.buildcompare) |
-| [1.0](https://search.maven.org/artifact/org.codehaus.plexus/plexus-interactivity/1.0/pom) | | |
-| [1.0-alpha-6](https://search.maven.org/artifact/org.codehaus.plexus/plexus-interactivity/1.0-alpha-6/pom) | | |
-| [1.0-alpha-5](https://search.maven.org/artifact/org.codehaus.plexus/plexus-interactivity/1.0-alpha-5/pom) | | |
-| [1.0-alpha-4](https://search.maven.org/artifact/org.codehaus.plexus/plexus-interactivity/1.0-alpha-4/pom) | | |

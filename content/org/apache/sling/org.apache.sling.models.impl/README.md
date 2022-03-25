@@ -14,26 +14,3 @@ rebuilding **1 releases** of org.apache.sling:org.apache.sling.models.impl:
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [1.5.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.5.0/pom) | [mvn jdk11 w](org.apache.sling.models.impl-1.5.0.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.models.impl-1.5.0.buildcompare) |
-| [1.4.16](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.4.16/pom) | | |
-| [1.4.14](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.4.14/pom) | | |
-| [1.4.12](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.4.12/pom) | | |
-| [1.4.10](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.4.10/pom) | | |
-| [1.4.8](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.4.8/pom) | | |
-| [1.4.6](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.4.6/pom) | | |
-| [1.4.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.4.4/pom) | | |
-| [1.4.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.4.2/pom) | | |
-| [1.4.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.4.0/pom) | | |
-| [1.3.8](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.3.8/pom) | | |
-| [1.3.6](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.3.6/pom) | | |
-| [1.3.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.3.4/pom) | | |
-| [1.3.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.3.0/pom) | | |
-| [1.2.8](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.2.8/pom) | | |
-| [1.2.6](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.2.6/pom) | | |
-| [1.2.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.2.4/pom) | | |
-| [1.2.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.2.2/pom) | | |
-| [1.2.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.2.0/pom) | | |
-| [1.1.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.1.0/pom) | | |
-| [1.0.6](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.0.6/pom) | | |
-| [1.0.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.0.4/pom) | | |
-| [1.0.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.0.2/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.models.impl/1.0.0/pom) | | |

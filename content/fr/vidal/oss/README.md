@@ -15,9 +15,3 @@ rebuilding **2 releases** of fr.vidal.oss:atom-jaxb:
 | -- | --------- | ------ |
 | [1.0.1](https://search.maven.org/artifact/fr.vidal.oss/atom-jaxb/1.0.1/pom) | [mvn jdk8](atom-jaxb-1.0.1.buildspec) | [4 :heavy_check_mark: ](atom-jaxb-1.0.1.buildcompare) |
 | [1.0.0](https://search.maven.org/artifact/fr.vidal.oss/atom-jaxb/1.0.0/pom) | [mvn jdk8](atom-jaxb-1.0.0.buildspec) | [1 :heavy_check_mark:  3 :warning:](atom-jaxb-1.0.0.buildcompare) |
-| [0.4.1](https://search.maven.org/artifact/fr.vidal.oss/atom-jaxb/0.4.1/pom) | | |
-| [0.3](https://search.maven.org/artifact/fr.vidal.oss/atom-jaxb/0.3/pom) | | |
-| [0.2.1-JDK6](https://search.maven.org/artifact/fr.vidal.oss/atom-jaxb/0.2.1-JDK6/pom) | | |
-| [0.2-JDK6](https://search.maven.org/artifact/fr.vidal.oss/atom-jaxb/0.2-JDK6/pom) | | |
-| [0.2](https://search.maven.org/artifact/fr.vidal.oss/atom-jaxb/0.2/pom) | | |
-| [0.1](https://search.maven.org/artifact/fr.vidal.oss/atom-jaxb/0.1/pom) | | |

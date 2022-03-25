@@ -14,4 +14,3 @@ rebuilding **1 releases** of org.codehaus.plexus:plexus-cipher:
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [2.0](https://search.maven.org/artifact/org.codehaus.plexus/plexus-cipher/2.0/pom) | [mvn jdk8 w](plexus-cipher-2.0.buildspec) | [4 :heavy_check_mark: ](plexus-cipher-2.0.buildcompare) |
-| [1.8](https://search.maven.org/artifact/org.codehaus.plexus/plexus-cipher/1.8/pom) | | |

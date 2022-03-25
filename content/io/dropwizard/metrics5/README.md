@@ -22,6 +22,3 @@ rebuilding **6 releases** of io.dropwizard.metrics5:metrics-parent:
 | [5.0.0-rc6](https://search.maven.org/artifact/io.dropwizard.metrics5/metrics-parent/5.0.0-rc6/pom) | | |
 | [5.0.0-rc5](https://search.maven.org/artifact/io.dropwizard.metrics5/metrics-parent/5.0.0-rc5/pom) | [mvn jdk11](dropwizard-metrics-5.0.0-rc5.buildspec) | [66 :heavy_check_mark:  29 :warning:](metrics-parent-5.0.0-rc5.buildcompare) |
 | [5.0.0-rc4](https://search.maven.org/artifact/io.dropwizard.metrics5/metrics-parent/5.0.0-rc4/pom) | [mvn jdk15](dropwizard-metrics-5.0.0-rc4.buildspec) | [86 :heavy_check_mark: ](metrics-parent-5.0.0-rc4.buildcompare) |
-| [5.0.0-rc3](https://search.maven.org/artifact/io.dropwizard.metrics5/metrics-parent/5.0.0-rc3/pom) | | |
-| [5.0.0-rc2](https://search.maven.org/artifact/io.dropwizard.metrics5/metrics-parent/5.0.0-rc2/pom) | | |
-| [5.0.0-rc1](https://search.maven.org/artifact/io.dropwizard.metrics5/metrics-parent/5.0.0-rc1/pom) | | |

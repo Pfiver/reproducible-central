@@ -15,4 +15,3 @@ rebuilding **2 releases** of org.apache.sling:org.apache.sling.javax.activation:
 | -- | --------- | ------ |
 | [0.3.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.javax.activation/0.3.0/pom) | [mvn jdk8](org.apache.sling.javax.activation-0.3.0.buildspec) | [5 :heavy_check_mark: ](org.apache.sling.javax.activation-0.3.0.buildcompare) |
 | [0.2.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.javax.activation/0.2.0/pom) | [mvn jdk8](org.apache.sling.javax.activation-0.2.0.buildspec) | [4 :heavy_check_mark:  1 :warning:](org.apache.sling.javax.activation-0.2.0.buildcompare) |
-| [0.1.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.javax.activation/0.1.0/pom) | | |

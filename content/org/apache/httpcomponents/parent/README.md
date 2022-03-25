@@ -14,6 +14,3 @@ rebuilding **1 releases** of org.apache.httpcomponents:httpcomponents-parent:
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [12](https://search.maven.org/artifact/org.apache.httpcomponents/httpcomponents-parent/12/pom) | [mvn jdk8 w](httpcomponents-parent-12.buildspec) | [2 :heavy_check_mark: ](httpcomponents-parent-12.buildcompare) |
-| [11](https://search.maven.org/artifact/org.apache.httpcomponents/httpcomponents-parent/11/pom) | | |
-| [10](https://search.maven.org/artifact/org.apache.httpcomponents/httpcomponents-parent/10/pom) | | |
-| [9](https://search.maven.org/artifact/org.apache.httpcomponents/httpcomponents-parent/9/pom) | | |

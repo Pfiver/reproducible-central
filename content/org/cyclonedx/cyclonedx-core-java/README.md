@@ -33,31 +33,3 @@ rebuilding **20 releases** of org.cyclonedx:cyclonedx-core-java:
 | [4.0.1](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/4.0.1/pom) | [mvn jdk8](cyclonedx-core-java-4.0.1.buildspec) | [3 :heavy_check_mark: ](cyclonedx-core-java-4.0.1.buildcompare) |
 | [4.0.0](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/4.0.0/pom) | [mvn jdk8](cyclonedx-core-java-4.0.0.buildspec) | [3 :heavy_check_mark: ](cyclonedx-core-java-4.0.0.buildcompare) |
 | [3.0.8](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/3.0.8/pom) | [mvn jdk8](cyclonedx-core-java-3.0.8.buildspec) | [3 :heavy_check_mark: ](cyclonedx-core-java-3.0.8.buildcompare) |
-| [3.0.7](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/3.0.7/pom) | | |
-| [3.0.6](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/3.0.6/pom) | | |
-| [3.0.5](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/3.0.5/pom) | | |
-| [3.0.4](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/3.0.4/pom) | | |
-| [3.0.3](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/3.0.3/pom) | | |
-| [3.0.2](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/3.0.2/pom) | | |
-| [3.0.1](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/3.0.1/pom) | | |
-| [3.0.0](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/3.0.0/pom) | | |
-| [2.7.0](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/2.7.0/pom) | | |
-| [2.6.5](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/2.6.5/pom) | | |
-| [2.6.4](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/2.6.4/pom) | | |
-| [2.6.3](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/2.6.3/pom) | | |
-| [2.6.2](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/2.6.2/pom) | | |
-| [2.6.1](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/2.6.1/pom) | | |
-| [2.6.0](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/2.6.0/pom) | | |
-| [2.5.1](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/2.5.1/pom) | | |
-| [2.5.0](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/2.5.0/pom) | | |
-| [2.1.1](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/2.1.1/pom) | | |
-| [2.1.0](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/2.1.0/pom) | | |
-| [2.0.2](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/2.0.2/pom) | | |
-| [2.0.1](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/2.0.1/pom) | | |
-| [2.0.0](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/2.0.0/pom) | | |
-| [1.1.2](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/1.1.2/pom) | | |
-| [1.1.1](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/1.1.1/pom) | | |
-| [1.1.0](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/1.1.0/pom) | | |
-| [1.0.2](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/1.0.2/pom) | | |
-| [1.0.1](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/1.0.1/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/org.cyclonedx/cyclonedx-core-java/1.0.0/pom) | | |

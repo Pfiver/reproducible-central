@@ -16,13 +16,3 @@ rebuilding **3 releases** of org.apache.sling:org.apache.sling.testing.sling-moc
 | [3.1.2-1.40.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.sling-mock-oak/3.1.2-1.40.0/pom) | [mvn jdk11](org.apache.sling.testing.sling-mock-oak-3.1.2-1.40.0.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.testing.sling-mock-oak-3.1.2-1.40.0.buildcompare) |
 | [3.1.0-1.40.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.sling-mock-oak/3.1.0-1.40.0/pom) | [mvn jdk11 w](org.apache.sling.testing.sling-mock-oak-3.1.0-1.40.0.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.testing.sling-mock-oak-3.1.0-1.40.0.buildcompare) |
 | [3.0.0-1.16.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.sling-mock-oak/3.0.0-1.16.0/pom) | [mvn jdk11 w](org.apache.sling.testing.sling-mock-oak-3.0.0-1.16.0.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.testing.sling-mock-oak-3.0.0-1.16.0.buildcompare) |
-| [2.1.10-1.16.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.sling-mock-oak/2.1.10-1.16.0/pom) | | |
-| [2.1.8-1.16.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.sling-mock-oak/2.1.8-1.16.0/pom) | | |
-| [2.1.6](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.sling-mock-oak/2.1.6/pom) | | |
-| [2.1.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.sling-mock-oak/2.1.4/pom) | | |
-| [2.1.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.sling-mock-oak/2.1.2/pom) | | |
-| [2.1.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.sling-mock-oak/2.1.0/pom) | | |
-| [2.0.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.sling-mock-oak/2.0.2/pom) | | |
-| [2.0.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.sling-mock-oak/2.0.0/pom) | | |
-| [1.0.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.sling-mock-oak/1.0.2/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.sling-mock-oak/1.0.0/pom) | | |

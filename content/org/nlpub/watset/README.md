@@ -25,8 +25,3 @@ rebuilding **12 releases** of org.nlpub:watset:
 | [2.3.1](https://search.maven.org/artifact/org.nlpub/watset/2.3.1/pom) | [mvn jdk11](watset-2.3.1.buildspec) | [3 :heavy_check_mark: ](watset-2.3.1.buildcompare) |
 | [2.3.0](https://search.maven.org/artifact/org.nlpub/watset/2.3.0/pom) | [mvn jdk11](watset-2.3.0.buildspec) | [3 :heavy_check_mark: ](watset-2.3.0.buildcompare) |
 | [2.2.8](https://search.maven.org/artifact/org.nlpub/watset/2.2.8/pom) | [mvn jdk11](watset-2.2.8.buildspec) | [3 :heavy_check_mark: ](watset-2.2.8.buildcompare) |
-| [2.2.7](https://search.maven.org/artifact/org.nlpub/watset/2.2.7/pom) | | |
-| [2.2.6](https://search.maven.org/artifact/org.nlpub/watset/2.2.6/pom) | | |
-| [2.2.5](https://search.maven.org/artifact/org.nlpub/watset/2.2.5/pom) | | |
-| [2.2.4](https://search.maven.org/artifact/org.nlpub/watset/2.2.4/pom) | | |
-| [2.1.5](https://search.maven.org/artifact/org.nlpub/watset/2.1.5/pom) | | |

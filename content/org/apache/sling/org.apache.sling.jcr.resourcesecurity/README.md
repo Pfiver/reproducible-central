@@ -14,5 +14,3 @@ rebuilding **1 releases** of org.apache.sling:org.apache.sling.jcr.resourcesecur
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [1.1.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.resourcesecurity/1.1.0/pom) | [mvn jdk11](org.apache.sling.jcr.resourcesecurity-1.1.0.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.jcr.resourcesecurity-1.1.0.buildcompare) |
-| [1.0.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.resourcesecurity/1.0.2/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.resourcesecurity/1.0.0/pom) | | |

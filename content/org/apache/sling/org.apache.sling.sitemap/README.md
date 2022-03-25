@@ -15,4 +15,3 @@ rebuilding **2 releases** of org.apache.sling:org.apache.sling.sitemap:
 | -- | --------- | ------ |
 | [1.0.6](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.sitemap/1.0.6/pom) | [mvn jdk11](org.apache.sling.sitemap-1.0.6.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.sitemap-1.0.6.buildcompare) |
 | [1.0.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.sitemap/1.0.4/pom) | [mvn jdk11](org.apache.sling.sitemap-1.0.4.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.sitemap-1.0.4.buildcompare) |
-| [1.0.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.sitemap/1.0.2/pom) | | |

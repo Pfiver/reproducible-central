@@ -14,6 +14,3 @@ rebuilding **1 releases** of org.codehaus.mojo:properties-maven-plugin:
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [1.1.0](https://search.maven.org/artifact/org.codehaus.mojo/properties-maven-plugin/1.1.0/pom) | [mvn jdk8](properties-maven-plugin-1.1.0.buildspec) | [4 :heavy_check_mark: ](properties-maven-plugin-1.1.0.buildcompare) |
-| [1.0.0](https://search.maven.org/artifact/org.codehaus.mojo/properties-maven-plugin/1.0.0/pom) | | |
-| [1.0-alpha-2](https://search.maven.org/artifact/org.codehaus.mojo/properties-maven-plugin/1.0-alpha-2/pom) | | |
-| [1.0-alpha-1](https://search.maven.org/artifact/org.codehaus.mojo/properties-maven-plugin/1.0-alpha-1/pom) | | |

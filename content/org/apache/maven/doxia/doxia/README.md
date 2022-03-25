@@ -18,23 +18,3 @@ rebuilding **5 releases** of org.apache.maven.doxia:doxia:
 | [1.11.1](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.11.1/pom) | [mvn jdk8 w](doxia-1.11.1.buildspec) | [57 :heavy_check_mark: ](doxia-module-markdown-1.11.1.buildcompare) |
 | [1.10](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.10/pom) | [mvn jdk8 w](doxia-1.10.buildspec) | [57 :heavy_check_mark: ](doxia-module-markdown-1.10.buildcompare) |
 | [1.9.1](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.9.1/pom) | [mvn jdk8](doxia-1.9.1.buildspec) | [38 :heavy_check_mark: ](doxia-module-markdown-1.9.1.buildcompare) |
-| [1.9](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.9/pom) | | |
-| [1.8](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.8/pom) | | |
-| [1.7](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.7/pom) | | |
-| [1.6](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.6/pom) | | |
-| [1.5](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.5/pom) | | |
-| [1.4](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.4/pom) | | |
-| [1.3](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.3/pom) | | |
-| [1.2](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.2/pom) | | |
-| [1.1.4](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.1.4/pom) | | |
-| [1.1.3](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.1.3/pom) | | |
-| [1.1.2](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.1.2/pom) | | |
-| [1.1.1](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.1.1/pom) | | |
-| [1.1](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.1/pom) | | |
-| [1.0](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.0/pom) | | |
-| [1.0-alpha-11](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.0-alpha-11/pom) | | |
-| [1.0-alpha-10](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.0-alpha-10/pom) | | |
-| [1.0-alpha-9](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.0-alpha-9/pom) | | |
-| [1.0-alpha-8](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.0-alpha-8/pom) | | |
-| [1.0-alpha-7](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.0-alpha-7/pom) | | |
-| [1.0-alpha-6](https://search.maven.org/artifact/org.apache.maven.doxia/doxia/1.0-alpha-6/pom) | | |

@@ -30,13 +30,3 @@ wcm-ui-granite-1.6.2.buildspec) | :x: |
 | [1.1.4](https://search.maven.org/artifact/io.wcm/io.wcm.wcm.ui.clientlibs/1.1.4/pom) | | |
 | [1.1.2](https://search.maven.org/artifact/io.wcm/io.wcm.wcm.ui.clientlibs/1.1.2/pom) | [mvn jdk8 w](wcm-ui-clientlibs-1.1.2.buildspec) | [3 :heavy_check_mark: ](io.wcm.wcm.ui.clientlibs-1.1.2.buildcompare) |
 | [1.1.0](https://search.maven.org/artifact/io.wcm/io.wcm.wcm.ui.clientlibs/1.1.0/pom) | [mvn jdk8 w](wcm-ui-clientlibs-1.1.0.buildspec) | [3 :heavy_check_mark: ](io.wcm.wcm.ui.clientlibs-1.1.0.buildcompare) |
-| [1.0.4](https://search.maven.org/artifact/io.wcm/io.wcm.wcm.ui.clientlibs/1.0.4/pom) | | |
-| [1.0.2](https://search.maven.org/artifact/io.wcm/io.wcm.wcm.ui.clientlibs/1.0.2/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/io.wcm/io.wcm.wcm.ui.clientlibs/1.0.0/pom) | | |
-| [0.6.2](https://search.maven.org/artifact/io.wcm/io.wcm.wcm.ui.clientlibs/0.6.2/pom) | | |
-| [0.6.0](https://search.maven.org/artifact/io.wcm/io.wcm.wcm.ui.clientlibs/0.6.0/pom) | | |
-| [0.5.6](https://search.maven.org/artifact/io.wcm/io.wcm.wcm.ui.clientlibs/0.5.6/pom) | | |
-| [0.5.4](https://search.maven.org/artifact/io.wcm/io.wcm.wcm.ui.clientlibs/0.5.4/pom) | | |
-| [0.5.2](https://search.maven.org/artifact/io.wcm/io.wcm.wcm.ui.clientlibs/0.5.2/pom) | | |
-| [0.5.0](https://search.maven.org/artifact/io.wcm/io.wcm.wcm.ui.clientlibs/0.5.0/pom) | | |
-| [0.1.0](https://search.maven.org/artifact/io.wcm/io.wcm.wcm.ui.clientlibs/0.1.0/pom) | | |

@@ -16,8 +16,3 @@ rebuilding **3 releases** of org.apache.sling:org.apache.sling.testing.caconfig-
 | [1.4.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.caconfig-mock-plugin/1.4.0/pom) | [mvn jdk11 w](org.apache.sling.testing.caconfig-mock-plugin-1.4.0.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.testing.caconfig-mock-plugin-1.4.0.buildcompare) |
 | [1.3.6](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.caconfig-mock-plugin/1.3.6/pom) | [mvn jdk11 w](org.apache.sling.testing.caconfig-mock-plugin-1.3.6.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.testing.caconfig-mock-plugin-1.3.6.buildcompare) |
 | [1.3.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.caconfig-mock-plugin/1.3.4/pom) | [mvn jdk11 w](org.apache.sling.testing.caconfig-mock-plugin-1.3.4.buildspec) | [4 :heavy_check_mark: ](org.apache.sling.testing.caconfig-mock-plugin-1.3.4.buildcompare) |
-| [1.3.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.caconfig-mock-plugin/1.3.2/pom) | | |
-| [1.3.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.caconfig-mock-plugin/1.3.0/pom) | | |
-| [1.2.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.caconfig-mock-plugin/1.2.0/pom) | | |
-| [1.1.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.caconfig-mock-plugin/1.1.0/pom) | | |
-| [1.0.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.testing.caconfig-mock-plugin/1.0.0/pom) | | |

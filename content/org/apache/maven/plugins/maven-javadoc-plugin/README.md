@@ -17,28 +17,3 @@ rebuilding **4 releases** of org.apache.maven.plugins:maven-javadoc-plugin:
 | [3.3.1](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/3.3.1/pom) | [mvn jdk8 w](maven-javadoc-plugin-3.3.1.buildspec) | [3 :heavy_check_mark:  1 :warning:](maven-javadoc-plugin-3.3.1.buildcompare) |
 | [3.3.0](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/3.3.0/pom) | [mvn jdk8 w](maven-javadoc-plugin-3.3.0.buildspec) | [4 :heavy_check_mark: ](maven-javadoc-plugin-3.3.0.buildcompare) |
 | [3.2.0](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/3.2.0/pom) | [mvn jdk8](maven-javadoc-plugin-3.2.0.buildspec) | [3 :heavy_check_mark:  1 :warning:](maven-javadoc-plugin-3.2.0.buildcompare) |
-| [3.1.1](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/3.1.1/pom) | | |
-| [3.1.0](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/3.1.0/pom) | | |
-| [3.0.1](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/3.0.1/pom) | | |
-| [3.0.0](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/3.0.0/pom) | | |
-| [3.0.0-M1](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/3.0.0-M1/pom) | | |
-| [2.10.4](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.10.4/pom) | | |
-| [2.10.3](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.10.3/pom) | | |
-| [2.10.2](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.10.2/pom) | | |
-| [2.10.1](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.10.1/pom) | | |
-| [2.10](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.10/pom) | | |
-| [2.9.1](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.9.1/pom) | | |
-| [2.9](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.9/pom) | | |
-| [2.8.1](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.8.1/pom) | | |
-| [2.8](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.8/pom) | | |
-| [2.7](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.7/pom) | | |
-| [2.6.1](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.6.1/pom) | | |
-| [2.6](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.6/pom) | | |
-| [2.5](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.5/pom) | | |
-| [2.4](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.4/pom) | | |
-| [2.3](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.3/pom) | | |
-| [2.2](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.2/pom) | | |
-| [2.0](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.0/pom) | | |
-| [2.0-beta-3](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.0-beta-3/pom) | | |
-| [2.0-beta-2](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.0-beta-2/pom) | | |
-| [2.0-beta-1](https://search.maven.org/artifact/org.apache.maven.plugins/maven-javadoc-plugin/2.0-beta-1/pom) | | |
