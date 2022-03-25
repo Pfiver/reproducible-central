@@ -13,5 +13,5 @@ rebuilding **2 releases** of org.apache.sling:org.apache.sling.commons.log:
 
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
-| [5.4.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.commons.log/5.4.0/pom) | [mvn jdk11](org.apache.sling.commons.log-5.4.0.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.commons.log-5.4.0.buildcompare) |
-| [5.3.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.commons.log/5.3.0/pom) | [mvn jdk11](org.apache.sling.commons.log-5.3.0.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.commons.log-5.3.0.buildcompare) |
+| [5.4.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.commons.log/5.4.0/pom) | [mvn jdk11](org.apache.sling.commons.log-5.4.0.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.commons.log-5.4.0.buildcompare) [:mag:](org.apache.sling.commons.log-5.4.0.diffoscope) |
+| [5.3.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.commons.log/5.3.0/pom) | [mvn jdk11](org.apache.sling.commons.log-5.3.0.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.commons.log-5.3.0.buildcompare) [:mag:](org.apache.sling.commons.log-5.3.0.diffoscope) |

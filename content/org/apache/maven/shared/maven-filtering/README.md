@@ -13,4 +13,4 @@ rebuilding **1 releases** of org.apache.maven.shared:maven-filtering:
 
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
-| [3.2.0](https://search.maven.org/artifact/org.apache.maven.shared/maven-filtering/3.2.0/pom) | [mvn jdk8 w](maven-filtering-3.2.0.buildspec) | [1 :heavy_check_mark:  3 :warning:](maven-filtering-3.2.0.buildcompare) |
+| [3.2.0](https://search.maven.org/artifact/org.apache.maven.shared/maven-filtering/3.2.0/pom) | [mvn jdk8 w](maven-filtering-3.2.0.buildspec) | [1 :heavy_check_mark:  3 :warning:](maven-filtering-3.2.0.buildcompare) [:mag:](maven-filtering-3.2.0.diffoscope) |

@@ -16,7 +16,7 @@ rebuilding **7 releases** of io.fabric8:kubernetes-client-project:
 | [5.12.1](https://search.maven.org/artifact/io.fabric8/docker-maven-plugin/5.12.1/pom) | | |
 | [5.12.0](https://search.maven.org/artifact/io.fabric8/docker-maven-plugin/5.12.0/pom) | | |
 | [5.11.2](https://search.maven.org/artifact/io.fabric8/docker-maven-plugin/5.11.2/pom) | | |
-| [5.11.1](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.11.1/pom) | [mvn jdk8](kubernetes-client-5.11.1.buildspec) | [287 :heavy_check_mark:  73 :warning:](kubernetes-client-project-5.11.1.buildcompare) |
+| [5.11.1](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.11.1/pom) | [mvn jdk8](kubernetes-client-5.11.1.buildspec) | [287 :heavy_check_mark:  73 :warning:](kubernetes-client-project-5.11.1.buildcompare) [:mag:](kubernetes-client-project-5.11.1.diffoscope) |
 | [5.11.0](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.11.0/pom) | | |
 | [5.10.2](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.10.2/pom) | | |
 | [5.10.1](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.10.1/pom) | | |
@@ -32,13 +32,13 @@ rebuilding **7 releases** of io.fabric8:kubernetes-client-project:
 | [5.6.0](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.6.0/pom) | | |
 | [5.5.0](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.5.0/pom) | | |
 | [5.4.2](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.4.2/pom) | | |
-| [5.4.1](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.4.1/pom) | [mvn jdk8](kubernetes-client-5.4.1.buildspec) | [186 :heavy_check_mark:  66 :warning:](kubernetes-client-project-5.4.1.buildcompare) |
-| [5.4.0](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.4.0/pom) | [mvn jdk8](kubernetes-client-5.4.0.buildspec) | [186 :heavy_check_mark:  66 :warning:](kubernetes-client-project-5.4.0.buildcompare) |
+| [5.4.1](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.4.1/pom) | [mvn jdk8](kubernetes-client-5.4.1.buildspec) | [186 :heavy_check_mark:  66 :warning:](kubernetes-client-project-5.4.1.buildcompare) [:mag:](kubernetes-client-project-5.4.1.diffoscope) |
+| [5.4.0](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.4.0/pom) | [mvn jdk8](kubernetes-client-5.4.0.buildspec) | [186 :heavy_check_mark:  66 :warning:](kubernetes-client-project-5.4.0.buildcompare) [:mag:](kubernetes-client-project-5.4.0.diffoscope) |
 | [5.3.2](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.3.2/pom) | | |
 | [5.3.1](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.3.1/pom) | | |
 | [5.3.0](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.3.0/pom) | | |
-| [5.2.1](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.2.1/pom) | [mvn jdk11](kubernetes-client-5.2.1.buildspec) | [180 :heavy_check_mark:  53 :warning:](kubernetes-client-project-5.2.1.buildcompare) |
-| [5.2.0](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.2.0/pom) | [mvn jdk8](kubernetes-client-5.2.0.buildspec) | [174 :heavy_check_mark:  59 :warning:](kubernetes-client-project-5.2.0.buildcompare) |
+| [5.2.1](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.2.1/pom) | [mvn jdk11](kubernetes-client-5.2.1.buildspec) | [180 :heavy_check_mark:  53 :warning:](kubernetes-client-project-5.2.1.buildcompare) [:mag:](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/content/io/fabric8/kubernetes-client/kubernetes-client-project-5.2.1.diffoscope) |
+| [5.2.0](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.2.0/pom) | [mvn jdk8](kubernetes-client-5.2.0.buildspec) | [174 :heavy_check_mark:  59 :warning:](kubernetes-client-project-5.2.0.buildcompare) [:mag:](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/content/io/fabric8/kubernetes-client/kubernetes-client-project-5.2.0.diffoscope) |
 | [5.1.2](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.1.2/pom) | | |
-| [5.1.1](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.1.1/pom) | [mvn jdk8](kubernetes-client-5.1.1.buildspec) | [175 :heavy_check_mark:  54 :warning:](kubernetes-client-project-5.1.1.buildcompare) |
-| [5.1.0](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.1.0/pom) | [mvn jdk8](kubernetes-client-5.1.0.buildspec) | [175 :heavy_check_mark:  54 :warning:](kubernetes-client-project-5.1.0.buildcompare) |
+| [5.1.1](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.1.1/pom) | [mvn jdk8](kubernetes-client-5.1.1.buildspec) | [175 :heavy_check_mark:  54 :warning:](kubernetes-client-project-5.1.1.buildcompare) [:mag:](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/content/io/fabric8/kubernetes-client/kubernetes-client-project-5.1.1.diffoscope) |
+| [5.1.0](https://search.maven.org/artifact/io.fabric8/kubernetes-client-project/5.1.0/pom) | [mvn jdk8](kubernetes-client-5.1.0.buildspec) | [175 :heavy_check_mark:  54 :warning:](kubernetes-client-project-5.1.0.buildcompare) [:mag:](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/content/io/fabric8/kubernetes-client/kubernetes-client-project-5.1.0.diffoscope) |

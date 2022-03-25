@@ -20,8 +20,8 @@ rebuilding **7 releases** of io.wcm:io.wcm.handler.richtext:
 | [1.7.2](https://search.maven.org/artifact/io.wcm/io.wcm.handler.media/1.7.2/pom) | | |
 | [1.7.0](https://search.maven.org/artifact/io.wcm/io.wcm.handler.media/1.7.0/pom) | | |
 | [1.6.4](https://search.maven.org/artifact/io.wcm/io.wcm.handler.media/1.6.4/pom) | | |
-| [1.6.2](https://search.maven.org/artifact/io.wcm/io.wcm.handler.link/1.6.2/pom) | [mvn jdk11 w](wcm-link-1.6.2.buildspec) | [2 :heavy_check_mark:  3 :warning:](io.wcm.handler.link-1.6.2.buildcompare) |
-| [1.6.0](https://search.maven.org/artifact/io.wcm/io.wcm.handler.link/1.6.0/pom) | [mvn jdk11 w](wcm-link-1.6.0.buildspec) | [2 :heavy_check_mark:  1 :warning:](io.wcm.handler.link-1.6.0.buildcompare) |
+| [1.6.2](https://search.maven.org/artifact/io.wcm/io.wcm.handler.link/1.6.2/pom) | [mvn jdk11 w](wcm-link-1.6.2.buildspec) | [2 :heavy_check_mark:  3 :warning:](io.wcm.handler.link-1.6.2.buildcompare) [:mag:](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/content/io/wcm/handler/io.wcm.handler.link-1.6.2.diffoscope) |
+| [1.6.0](https://search.maven.org/artifact/io.wcm/io.wcm.handler.link/1.6.0/pom) | [mvn jdk11 w](wcm-link-1.6.0.buildspec) | [2 :heavy_check_mark:  1 :warning:](io.wcm.handler.link-1.6.0.buildcompare) [:mag:](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/content/io/wcm/handler/io.wcm.handler.link-1.6.0.diffoscope) |
 | [1.5.4](https://search.maven.org/artifact/io.wcm/io.wcm.handler.link/1.5.4/pom) | [mvn jdk8 w](wcm-link-1.5.4.buildspec) | [2 :heavy_check_mark:  1 :warning:](io.wcm.handler.link-1.5.4.buildcompare) |
 | [1.5.2](https://search.maven.org/artifact/io.wcm/io.wcm.handler.link/1.5.2/pom) | [mvn jdk8 w](wcm-link-1.5.2.buildspec
 wcm-richtext-1.5.2.buildspec) | :x: |

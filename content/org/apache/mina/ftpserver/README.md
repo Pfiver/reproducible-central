@@ -15,4 +15,4 @@ rebuilding **1 releases** of org.apache.ftpserver:ftpserver-parent:
 | -- | --------- | ------ |
 | [1.2.0](https://search.maven.org/artifact/org.apache.maven.wrapper/maven-wrapper-parent/1.2.0/pom) | | |
 | [1.1.4](https://search.maven.org/artifact/org.apache.maven.wrapper/maven-wrapper-parent/1.1.4/pom) | | |
-| [1.1.3](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.1.3/pom) | [mvn jdk8](mina-ftpserver-1.1.3.buildspec) | [18 :heavy_check_mark:  7 :warning:](ftpserver-parent-1.1.3.buildcompare) [:mag:](https://github.com/apache/mina-ftpserver/pull/13) |
+| [1.1.3](https://search.maven.org/artifact/org.apache.ftpserver/ftpserver-parent/1.1.3/pom) | [mvn jdk8](mina-ftpserver-1.1.3.buildspec) | [18 :heavy_check_mark:  7 :warning:](ftpserver-parent-1.1.3.buildcompare) [:mag:](ftpserver-parent-1.1.3.diffoscope) [:memo:](https://github.com/apache/mina-ftpserver/pull/13) |

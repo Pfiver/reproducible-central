@@ -13,4 +13,4 @@ rebuilding **1 releases** of org.apache.aries.cdi:org.apache.aries.cdi:
 
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
-| [1.1.4](https://search.maven.org/artifact/org.apache.aries.cdi/org.apache.aries.cdi/1.1.4/pom) | [mvn jdk8](aries-cdi-1.1.4.buildspec) | [2 :heavy_check_mark:  30 :warning:](org.apache.aries.cdi-1.1.4.buildcompare) |
+| [1.1.4](https://search.maven.org/artifact/org.apache.aries.cdi/org.apache.aries.cdi/1.1.4/pom) | [mvn jdk8](aries-cdi-1.1.4.buildspec) | [2 :heavy_check_mark:  30 :warning:](org.apache.aries.cdi-1.1.4.buildcompare) [:mag:](org.apache.aries.cdi-1.1.4.diffoscope) |

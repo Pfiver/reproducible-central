@@ -13,4 +13,4 @@ rebuilding **1 releases** of org.apache.shiro:shiro-root:
 
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
-| [1.9.0](https://search.maven.org/artifact/org.apache.shiro/shiro-root/1.9.0/pom) | [mvn jdk11](shiro-1.9.0.buildspec) | [34 :heavy_check_mark:  49 :warning:](shiro-root-1.9.0.buildcompare) |
+| [1.9.0](https://search.maven.org/artifact/org.apache.shiro/shiro-root/1.9.0/pom) | [mvn jdk11](shiro-1.9.0.buildspec) | [34 :heavy_check_mark:  49 :warning:](shiro-root-1.9.0.buildcompare) [:mag:](shiro-root-1.9.0.diffoscope) |

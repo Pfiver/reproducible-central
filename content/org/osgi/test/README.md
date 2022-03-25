@@ -16,4 +16,4 @@ rebuilding **3 releases** of org.osgi:org.osgi.test.parent:
 | [1.1.0](https://search.maven.org/artifact/org.osgi/org.osgi.test.parent/1.1.0/pom) | [mvn jdk17](osgi-test-1.1.0.buildspec) | [26 :heavy_check_mark: ](org.osgi.test.parent-1.1.0.buildcompare) |
 | [1.0.1](https://search.maven.org/artifact/org.osgi/org.osgi.test.parent/1.0.1/pom) | [mvn jdk8](osgi-test-1.0.1.buildspec) | [12 :heavy_check_mark: ](org.osgi.test.parent-1.0.1.buildcompare) |
 | [1.0.0](https://search.maven.org/artifact/org.osgi/org.osgi.test.parent/1.0.0/pom) | | |
-| [0.10.0](https://search.maven.org/artifact/org.osgi/org.osgi.test.parent/0.10.0/pom) | [mvn jdk8](osgi-test-0.10.0.buildspec) | [6 :heavy_check_mark:  6 :warning:](org.osgi.test.parent-0.10.0.buildcompare) |
+| [0.10.0](https://search.maven.org/artifact/org.osgi/org.osgi.test.parent/0.10.0/pom) | [mvn jdk8](osgi-test-0.10.0.buildspec) | [6 :heavy_check_mark:  6 :warning:](org.osgi.test.parent-0.10.0.buildcompare) [:mag:](org.osgi.test.parent-0.10.0.diffoscope) |

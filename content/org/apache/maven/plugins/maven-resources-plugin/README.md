@@ -13,4 +13,4 @@ rebuilding **1 releases** of org.apache.maven.plugins:maven-resources-plugin:
 
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
-| [3.2.0](https://search.maven.org/artifact/org.apache.maven.plugins/maven-resources-plugin/3.2.0/pom) | [mvn jdk8 w](maven-resources-plugin-3.2.0.buildspec) | [1 :heavy_check_mark:  3 :warning:](maven-resources-plugin-3.2.0.buildcompare) |
+| [3.2.0](https://search.maven.org/artifact/org.apache.maven.plugins/maven-resources-plugin/3.2.0/pom) | [mvn jdk8 w](maven-resources-plugin-3.2.0.buildspec) | [1 :heavy_check_mark:  3 :warning:](maven-resources-plugin-3.2.0.buildcompare) [:mag:](maven-resources-plugin-3.2.0.diffoscope) |

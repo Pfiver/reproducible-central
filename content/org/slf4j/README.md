@@ -28,4 +28,4 @@ rebuilding **1 releases** of org.slf4j:slf4j-parent:
 | [1.8.0-alpha2](https://search.maven.org/artifact/org.simplify4u/slf4j-mock/1.8.0-alpha2/pom) | | |
 | [1.8.0-alpha1](https://search.maven.org/artifact/org.simplify4u/slf4j-mock/1.8.0-alpha1/pom) | | |
 | [1.8.0-alpha0](https://search.maven.org/artifact/org.simplify4u/slf4j-mock/1.8.0-alpha0/pom) | | |
-| [1.7.36](https://search.maven.org/artifact/org.slf4j/slf4j-parent/1.7.36/pom) | [mvn jdk8 w](slf4j-1.7.36.buildspec) | [41 :heavy_check_mark:  4 :warning:](slf4j-parent-1.7.36.buildcompare) |
+| [1.7.36](https://search.maven.org/artifact/org.slf4j/slf4j-parent/1.7.36/pom) | [mvn jdk8 w](slf4j-1.7.36.buildspec) | [41 :heavy_check_mark:  4 :warning:](slf4j-parent-1.7.36.buildcompare) [:mag:](slf4j-parent-1.7.36.diffoscope) |

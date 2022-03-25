@@ -13,5 +13,5 @@ rebuilding **2 releases** of ch.qos.reload4j:reload4j:
 
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
-| [1.2.19](https://search.maven.org/artifact/ch.qos.reload4j/reload4j/1.2.19/pom) | [mvn jdk8 w](reload4j-1.2.19.buildspec) | [2 :heavy_check_mark:  2 :warning:](reload4j-1.2.19.buildcompare) |
-| [1.2.18.5](https://search.maven.org/artifact/ch.qos.reload4j/reload4j/1.2.18.5/pom) | [mvn jdk8 w](reload4j-1.2.18.5.buildspec) | [2 :heavy_check_mark:  2 :warning:](reload4j-1.2.18.5.buildcompare) |
+| [1.2.19](https://search.maven.org/artifact/ch.qos.reload4j/reload4j/1.2.19/pom) | [mvn jdk8 w](reload4j-1.2.19.buildspec) | [2 :heavy_check_mark:  2 :warning:](reload4j-1.2.19.buildcompare) [:mag:](reload4j-1.2.19.diffoscope) |
+| [1.2.18.5](https://search.maven.org/artifact/ch.qos.reload4j/reload4j/1.2.18.5/pom) | [mvn jdk8 w](reload4j-1.2.18.5.buildspec) | [2 :heavy_check_mark:  2 :warning:](reload4j-1.2.18.5.buildcompare) [:mag:](reload4j-1.2.18.5.diffoscope) |

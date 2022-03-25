@@ -13,5 +13,5 @@ rebuilding **2 releases** of org.apache.sling:org.apache.sling.scripting.core:
 
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
-| [2.4.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.scripting.core/2.4.4/pom) | [mvn jdk11](org.apache.sling.scripting.core-2.4.4.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.scripting.core-2.4.4.buildcompare) |
-| [2.4.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.scripting.core/2.4.2/pom) | [mvn jdk11](org.apache.sling.scripting.core-2.4.2.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.scripting.core-2.4.2.buildcompare) |
+| [2.4.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.scripting.core/2.4.4/pom) | [mvn jdk11](org.apache.sling.scripting.core-2.4.4.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.scripting.core-2.4.4.buildcompare) [:mag:](org.apache.sling.scripting.core-2.4.4.diffoscope) |
+| [2.4.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.scripting.core/2.4.2/pom) | [mvn jdk11](org.apache.sling.scripting.core-2.4.2.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.scripting.core-2.4.2.buildcompare) [:mag:](org.apache.sling.scripting.core-2.4.2.diffoscope) |

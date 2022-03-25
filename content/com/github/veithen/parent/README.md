@@ -17,4 +17,4 @@ rebuilding **2 releases** of com.github.veithen:parent:
 | [40](https://search.maven.org/artifact/com.github.veithen/parent/40/pom) | | |
 | [39](https://search.maven.org/artifact/com.github.veithen/parent/39/pom) | | |
 | [38](https://search.maven.org/artifact/com.github.veithen/parent/38/pom) | | |
-| [37](https://search.maven.org/artifact/com.github.veithen/parent/37/pom) | [mvn jdk11](veithen-parent-37.buildspec) | [1 :heavy_check_mark:  1 :warning:](parent-37.buildcompare) |
+| [37](https://search.maven.org/artifact/com.github.veithen/parent/37/pom) | [mvn jdk11](veithen-parent-37.buildspec) | [1 :heavy_check_mark:  1 :warning:](parent-37.buildcompare) [:mag:](parent-37.diffoscope) |

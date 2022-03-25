@@ -14,4 +14,4 @@ rebuilding **2 releases** of org.apache.logging:logging-parent:
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
 | [5](https://search.maven.org/artifact/org.apache.logging/logging-parent/5/pom) | [mvn jdk8](logging-parent-5.buildspec) | [2 :heavy_check_mark: ](logging-parent-5.buildcompare) |
-| [4](https://search.maven.org/artifact/org.apache.logging/logging-parent/4/pom) | [mvn jdk8](logging-parent-4.buildspec) | [1 :heavy_check_mark:  1 :warning:](logging-parent-4.buildcompare) [:mag:](https://github.com/apache/logging-parent/pull/3) |
+| [4](https://search.maven.org/artifact/org.apache.logging/logging-parent/4/pom) | [mvn jdk8](logging-parent-4.buildspec) | [1 :heavy_check_mark:  1 :warning:](logging-parent-4.buildcompare) [:mag:](logging-parent-4.diffoscope) [:memo:](https://github.com/apache/logging-parent/pull/3) |

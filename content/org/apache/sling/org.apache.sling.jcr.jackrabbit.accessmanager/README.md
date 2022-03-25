@@ -13,4 +13,4 @@ rebuilding **1 releases** of org.apache.sling:org.apache.sling.jcr.jackrabbit.ac
 
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
-| [3.0.10](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.accessmanager/3.0.10/pom) | [mvn jdk11](org.apache.sling.jcr.jackrabbit.accessmanager-3.0.10.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.jcr.jackrabbit.accessmanager-3.0.10.buildcompare) |
+| [3.0.10](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.accessmanager/3.0.10/pom) | [mvn jdk11](org.apache.sling.jcr.jackrabbit.accessmanager-3.0.10.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.jcr.jackrabbit.accessmanager-3.0.10.buildcompare) [:mag:](org.apache.sling.jcr.jackrabbit.accessmanager-3.0.10.diffoscope) |

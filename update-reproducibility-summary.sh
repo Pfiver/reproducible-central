@@ -76,7 +76,11 @@ do
         [ "${ok}" -gt 0 ] && echo -n "${ok} :heavy_check_mark: " >> ${t}
         [ "${ko}" -gt 0 ] && echo -n " ${ko} :warning:" >> ${t} || ((countVersionOk++)) && ((globalVersionOk++))
         echo -n "](${buildcompare})" >> ${t}
-        [[ -z "${issue}" ]] || echo -n " [:mag:](${issue})" >> ${t}
+        [[ -z "${diffoscope}" ]] || echo -n " [:mag:](${diffoscope})" >> ${t}
+        [[ -z "${issue}" ]] || echo -n " [:memo:](${issue})" >> ${t}
+
+        # detect unexpected issue or diffoscope but 0 non-reproducible artifact (probably cause by previous buildspec copy)
+        [[ -z "${issue}" ]] && [[ -n "${diffoscope}" ]] && issue="${diffoscope}"
         [[ -n "${issue}" ]] && [ "${ko}" -eq 0 ] && echo -e "\n\033[1;31munexpected issue/diffoscope entry when ko=0\033[0m in \033[1m$dir/$buildspec\033[0m" >> ${t}
       else
         echo -n ":x:" >> ${t}

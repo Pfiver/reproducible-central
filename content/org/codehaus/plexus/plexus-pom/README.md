@@ -16,7 +16,7 @@ rebuilding **6 releases** of org.codehaus.plexus:plexus:
 | [8](https://search.maven.org/artifact/org.codehaus.plexus/plexus/8/pom) | [mvn jdk7](plexus-pom-8.buildspec) | [3 :heavy_check_mark: ](plexus-8.buildcompare) |
 | [7](https://search.maven.org/artifact/org.codehaus.plexus/plexus/7/pom) | [mvn jdk7](plexus-pom-7.buildspec) | [3 :heavy_check_mark: ](plexus-7.buildcompare) |
 | [6.5](https://search.maven.org/artifact/org.codehaus.plexus/plexus/6.5/pom) | [mvn jdk7](plexus-pom-6.5.buildspec) | [3 :heavy_check_mark: ](plexus-6.5.buildcompare) |
-| [6.4](https://search.maven.org/artifact/org.codehaus.plexus/plexus/6.4/pom) | [mvn jdk7](plexus-pom-6.4.buildspec) | [1 :heavy_check_mark:  2 :warning:](plexus-6.4.buildcompare) [:mag:](https://github.com/codehaus-plexus/plexus-pom/issues/23) |
+| [6.4](https://search.maven.org/artifact/org.codehaus.plexus/plexus/6.4/pom) | [mvn jdk7](plexus-pom-6.4.buildspec) | [1 :heavy_check_mark:  2 :warning:](plexus-6.4.buildcompare) [:memo:](https://github.com/codehaus-plexus/plexus-pom/issues/23) |
 | [6.3](https://search.maven.org/artifact/org.codehaus.plexus/plexus/6.3/pom) | | |
 | [6.2](https://search.maven.org/artifact/org.codehaus.plexus/plexus/6.2/pom) | [mvn jdk7](plexus-pom-6.2.buildspec) | [2 :heavy_check_mark: ](plexus-6.2.buildcompare) |
 | [6.1](https://search.maven.org/artifact/org.codehaus.plexus/plexus/6.1/pom) | [mvn jdk7](plexus-pom-6.1.buildspec) | [2 :heavy_check_mark: ](plexus-6.1.buildcompare) |

@@ -13,6 +13,6 @@ rebuilding **3 releases** of org.apache.sling:org.apache.sling.jcr.jackrabbit.us
 
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
-| [2.2.18](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.2.18/pom) | [mvn jdk11](org.apache.sling.jcr.jackrabbit.usermanager-2.2.18.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.jcr.jackrabbit.usermanager-2.2.18.buildcompare) |
+| [2.2.18](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.2.18/pom) | [mvn jdk11](org.apache.sling.jcr.jackrabbit.usermanager-2.2.18.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.jcr.jackrabbit.usermanager-2.2.18.buildcompare) [:mag:](org.apache.sling.jcr.jackrabbit.usermanager-2.2.18.diffoscope) |
 | [2.2.16](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.2.16/pom) | [mvn jdk11](org.apache.sling.jcr.jackrabbit.usermanager-2.2.16.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.jcr.jackrabbit.usermanager-2.2.16.buildcompare) |
 | [2.2.14](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.2.14/pom) | [mvn jdk11](org.apache.sling.jcr.jackrabbit.usermanager-2.2.14.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.jcr.jackrabbit.usermanager-2.2.14.buildcompare) |

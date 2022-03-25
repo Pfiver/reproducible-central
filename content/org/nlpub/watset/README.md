@@ -13,7 +13,7 @@ rebuilding **12 releases** of org.nlpub:watset:
 
 | version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
 | -- | --------- | ------ |
-| [2.8.0](https://search.maven.org/artifact/org.nlpub/watset/2.8.0/pom) | [mvn jdk11](watset-2.8.0.buildspec) | [2 :heavy_check_mark:  1 :warning:](watset-2.8.0.buildcompare) |
+| [2.8.0](https://search.maven.org/artifact/org.nlpub/watset/2.8.0/pom) | [mvn jdk11](watset-2.8.0.buildspec) | [2 :heavy_check_mark:  1 :warning:](watset-2.8.0.buildcompare) [:mag:](watset-2.8.0.diffoscope) |
 | [2.7.2](https://search.maven.org/artifact/org.nlpub/watset/2.7.2/pom) | [mvn jdk11](watset-2.7.2.buildspec) | [3 :heavy_check_mark: ](watset-2.7.2.buildcompare) |
 | [2.7.0](https://search.maven.org/artifact/org.nlpub/watset/2.7.0/pom) | [mvn jdk11](watset-2.7.0.buildspec) | [3 :heavy_check_mark: ](watset-2.7.0.buildcompare) |
 | [2.6.1](https://search.maven.org/artifact/org.nlpub/watset/2.6.1/pom) | [mvn jdk11](watset-2.6.1.buildspec) | [3 :heavy_check_mark: ](watset-2.6.1.buildcompare) |
