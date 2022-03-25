@@ -1,0 +1,28 @@
+[org.apache.sling:org.apache.sling.jcr.jackrabbit.usermanager](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/) RB check
+=======
+
+[![Reproducible Builds](https://reproducible-builds.org/images/logos/rb.svg) an independently-verifiable path from source to binary code](https://reproducible-builds.org/)
+
+## Project: [org.apache.sling:org.apache.sling.jcr.jackrabbit.usermanager](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/)
+
+Source code: [https://github.com/apache/sling-org-apache-sling-jcr-jackrabbit-usermanager.git](https://github.com/apache/sling-org-apache-sling-jcr-jackrabbit-usermanager.git)
+
+rebuilding **3 releases** of org.apache.sling:org.apache.sling.jcr.jackrabbit.usermanager:
+- **0** releases were found successfully **fully reproducible** (100% reproducible artifacts :heavy_check_mark:),
+- 3 had issues (some unreproducible artifacts :warning:):
+
+| version | [build spec](BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? |
+| -- | --------- | ------ |
+| [2.2.18](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.2.18/pom) | [mvn jdk11](org.apache.sling.jcr.jackrabbit.usermanager-2.2.18.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.jcr.jackrabbit.usermanager-2.2.18.buildcompare) |
+| [2.2.16](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.2.16/pom) | [mvn jdk11](org.apache.sling.jcr.jackrabbit.usermanager-2.2.16.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.jcr.jackrabbit.usermanager-2.2.16.buildcompare) |
+| [2.2.14](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.2.14/pom) | [mvn jdk11](org.apache.sling.jcr.jackrabbit.usermanager-2.2.14.buildspec) | [3 :heavy_check_mark:  1 :warning:](org.apache.sling.jcr.jackrabbit.usermanager-2.2.14.buildcompare) |
+| [2.2.12](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.2.12/pom) | | |
+| [2.2.10](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.2.10/pom) | | |
+| [2.2.8](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.2.8/pom) | | |
+| [2.2.6](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.2.6/pom) | | |
+| [2.2.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.2.4/pom) | | |
+| [2.2.2](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.2.2/pom) | | |
+| [2.2.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.2.0/pom) | | |
+| [2.1.0](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.1.0/pom) | | |
+| [2.0.4](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.0.4/pom) | | |
+| [2.0.2-incubator](https://search.maven.org/artifact/org.apache.sling/org.apache.sling.jcr.jackrabbit.usermanager/2.0.2-incubator/pom) | | |

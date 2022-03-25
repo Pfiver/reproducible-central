@@ -4,8 +4,8 @@ echo "*** running script: $0"
 
 export LC_ALL=C
 
-#for metadata in $(find content -name "maven-metadata.xml" -print | sort)
-for metadata in content/org/apache/maven/doxia/doxia/maven-metadata.xml
+for metadata in $(find content -name "maven-metadata.xml" -print | grep -v buildcache | sort)
+#for metadata in content/org/apache/maven/doxia/doxia/maven-metadata.xml
 do
   dir="$(dirname "${metadata}")"
   readme="${dir}/README.md"
@@ -17,7 +17,10 @@ do
 
   for version in $(tac "${metadata}" | grep 'version>' | cut -d '>' -f 2 | cut -d '<' -f 1)
   do
-    buildspec=$(ls $dir | grep "\-${version}.buildspec")
+    buildspec=$(ls $dir | grep "\-${version}\.buildspec")
+    buildinfo=$(ls $dir | grep "\-${version}\.buildinfo")
+    buildcompare=$(ls $dir | grep "\-${version}\.buildcompare")
+
     if [ -n "$buildspec" ]
     then
       . $dir/${buildspec}
@@ -40,24 +43,18 @@ do
       diffoscope=
       issue=
 
-      if [ $(ls ${dir}/${buildinfo} | wc -l) -le 1 ]; then
-        buildinfoCompare="$(basename ${buildinfo} .buildinfo).buildcompare"
-      else
-        buildinfoCompare="$(basename ${buildspec} .buildspec).buildcompare"
-      fi
-
       echo -n "| [${version}](https://search.maven.org/artifact/${groupId}/${artifactId}/${version}/pom) " >> ${t}
       echo -n "| [${tool} jdk${jdk}" >> ${t}
       [[ "${newline}" == crlf* ]] && echo -n " w" >> ${t}
       echo -n "](${buildspec}) | " >> ${t}
       [ -f "${buildinfo}" ] && echo -n "[result](${buildinfo}): " >> ${t}
 
-      . "${dir}/${buildinfoCompare}"
+      . "${dir}/${buildcompare}"
       if [ $? -eq 0 ]; then
         echo -n "[" >> ${t}
         [ "${ok}" -gt 0 ] && echo -n "${ok} :heavy_check_mark: " >> ${t}
-        [ "${ko}" -gt 0 ] && echo -n " ${ko} :warning:" || ((countVersionOk++)) >> ${t}
-        echo -n "](${buildinfoCompare})" >> ${t}
+        [ "${ko}" -gt 0 ] && echo -n " ${ko} :warning:" >> ${t} || ((countVersionOk++))
+        echo -n "](${buildcompare})" >> ${t}
         [[ -z "${issue}" ]] || echo -n "[:mag:](${issue})" >> ${t}
         [[ -n "${issue}" ]] && [ "${ko}" -eq 0 ] && echo -e "\n\033[1;31munexpected issue/diffoscope entry when ko=0\033[0m in \033[1m$dir/$buildspec\033[0m" >> ${t}
       else
@@ -80,9 +77,7 @@ do
   \rm -f ${t}
 
   # add projet entry to main README
-
-  # debug
-  cat $readme
+  #TODO
 done
 
 exit
